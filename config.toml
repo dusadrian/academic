@@ -61,8 +61,8 @@ defaultContentLanguageInSubdir = false
   gravatar = true  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "dusa.adrian@unibuc.ro"
-  address = "Șoseaua Panduri nr.90-92, sala 008"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  address = "Șoseaua Panduri nr.90-92, room 008"
+  office_hours = "email for appointment"
   phone = "+40 740 147489"
   skype = "dusa.adrian"
   telegram = ""
@@ -93,10 +93,10 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
-  map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  map = 1
+  map_api_key = "AIzaSyDogoEhQ1QY20oEKMhzvmlUJMePbDKDIWo"
+  latitude = "44.43169601"
+  longitude = "26.06142104"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
