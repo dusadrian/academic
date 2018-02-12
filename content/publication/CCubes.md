@@ -60,4 +60,12 @@ caption = ""
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+# More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+The main idea of this paper is to find prime implicants from bottom-up, instead of top-down as in the classical Quine-McCluskey algorithm.
+
+In order to shorten the execution time, the search space (the implicant matrix) is partitioned in succesive layers of complexity, given the following equality:
+
+$$\prod_{c = 1}^{k} (l_c + 1) \phantom{0} = \phantom{0} 1 + \sum_{c = 1}^{k}\binom{k}{c}\prod_{s = 1}^{c} l_s$$
+
+On the left hand side is the entire space of the implicant matrix, while on the right hand side is the same space partitioned into layers of complexity.
+
