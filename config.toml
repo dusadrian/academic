@@ -6,7 +6,11 @@
 baseurl = "/"
 
 # Title of your site
+<<<<<<< HEAD
 title = ""
+=======
+title = "Adrian Dușa's academic blog"
+>>>>>>> 7a8cc7acb32af947fe6b5e648bcdc7df3034a9e8
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
