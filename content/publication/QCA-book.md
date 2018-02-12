@@ -17,8 +17,8 @@ authors = ["Adrian Dușa"]
 publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "In *ICMEW*"
+# publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
+publication_short = "Springer International"
 
 # Abstract and optional shortened version.
 abstract = "Starting with version 2.0, the QCA package in R witnessed substantial improvements in both the functionality of the written commands and also the Graphical User Interface. Considerable effort is made to maintain backwards compatibility with older versions of the package, so that previous publication could still be replicated with the current version, but the new features required an almost complete re-write of the previous book published at Springer. This new book contains detailed explanations on how to perform QCA with R using the latest cutting edge developments, among which: better calibrations, improved dialogs in the GUI, expanded parameters of fit, and the most advanced minimization engine called CCubes."
