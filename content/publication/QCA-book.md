@@ -1,6 +1,6 @@
 +++
 title = "QCA with R. A comprehensive resource"
-date = "2018-02"
+date = "2018-02-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Adrian Dușa"]
