@@ -1,6 +1,6 @@
 +++
-title = "Consistency Cubes. A Fast, Efficient Method for exact Boolean Minimization."
-date = "2018-02-12"
+title = "Consistency Cubes. A Fast, Efficient Method for exact Boolean Minimization"
+date = "2018-02-11"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Adrian Dușa"]
@@ -28,29 +28,29 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+selected = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["deep-learning"]
+# projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = ""
-url_preprint = ""
-url_code = ""
-url_dataset = ""
-url_project = ""
-url_slides = ""
-url_video = ""
-url_poster = ""
-url_source = ""
+# url_pdf = ""
+# url_preprint = ""
+# url_code = ""
+# url_dataset = ""
+# url_project = ""
+# url_slides = ""
+# url_video = ""
+# url_poster = ""
+# url_source = ""
 
 # Does the content use math formatting?
-math = true
+# math = true
 
 # Does the content use source code highlighting?
-highlight = true
+# highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
@@ -63,8 +63,7 @@ The main idea of this paper is to find prime implicants from bottom-up, instead 
 
 In order to shorten the execution time, the search space (the implicant matrix) is partitioned in succesive layers of complexity, given the following equality:
 
-\(\prod_{c = 1}^{k} (l_c + 1) = 1 + \sum_{c = 1}^{k}\binom{k}{c}\prod_{s = 1}^{c} l_s\)
+$$\prod_{c = 1}^{k} (l_c + 1) = 1 + \sum_{c = 1}^{k}\binom{k}{c}\prod_{s = 1}^{c} l_s$$
 
 
-On the left hand side is the entire space of the implicant matrix, while on the right hand side is the same space partitioned into layers of complexity.
 

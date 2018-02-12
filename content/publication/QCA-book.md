@@ -1,6 +1,6 @@
 +++
 title = "QCA with R. A comprehensive resource"
-date = "2018-02-01"
+date = "2018-02-12"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Adrian Dușa"]
@@ -22,7 +22,7 @@ publication_short = "Springer International"
 
 # Abstract and optional shortened version.
 abstract = "Starting with version 2.0, the QCA package in R witnessed substantial improvements in both the functionality of the written commands and also the Graphical User Interface. Considerable effort is made to maintain backwards compatibility with older versions of the package, so that previous publication could still be replicated with the current version, but the new features required an almost complete re-write of the previous book published at Springer. This new book contains detailed explanations on how to perform QCA with R using the latest cutting edge developments, among which: better calibrations, improved dialogs in the GUI, expanded parameters of fit, and the most advanced minimization engine called CCubes."
-abstract_short = "Since the QCA package has been substantially improved over the past few years, it was a good time to start writing a new manual, including the more developed graphical user interface."
+# abstract_short = "Since the QCA package has been substantially improved over the past few years, it was a good time to start writing a new manual, including the more developed graphical user interface."
 
 # Featured image thumbnail (optional)
 image_preview = ""
@@ -33,18 +33,18 @@ selected = true
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-projects = ["example-external-project"]
+# projects = ["example-external-project"]
 
 # Links (optional).
-url_pdf = ""
+# url_pdf = ""
 url_preprint = "https://bookdown.org/dusadrian/QCAbook/QCAbook.pdf"
-url_code = "#"
-url_dataset = "#"
-url_project = "#"
-url_slides = "#"
-url_video = "#"
-url_poster = "#"
-url_source = "#"
+# url_code = "#"
+# url_dataset = "#"
+# url_project = "#"
+# url_slides = "#"
+# url_video = "#"
+# url_poster = "#"
+# url_source = "#"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
@@ -64,4 +64,4 @@ caption = "My caption :smile:"
 
 +++
 
-More detail can easily be written here using *Markdown* and $\rm \LaTeX$ math code.
+
