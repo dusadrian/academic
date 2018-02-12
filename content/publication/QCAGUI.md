@@ -21,8 +21,7 @@ publication = "In *Journal of Business Research*"
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Although performing all available function directly from R's command line is possible, many users have expressed their desire for a user-friendly version of the QCA package with menus. Instead of designing the user interface from scratch it was a lot easier to use existing code and Rcmdr is the best engineered interface available for R. The QCAGUI package (the companion of the standard QCA package) is based on the Rcmdr user interface.
-Other, more advanced software exists that perform QCA algorithms but none of them offer the kind of development R has in terms of code readability, code sharing and helpful advice from a wide community. An R package for QCA emerges and its development is just beginning as the level of interest in R increases constantly."
+abstract = "Although performing all available function directly from R's command line is possible, many users have expressed their desire for a user-friendly version of the QCA package with menus. Instead of designing the user interface from scratch it was a lot easier to use existing code and Rcmdr is the best engineered interface available for R. The QCAGUI package (the companion of the standard QCA package) is based on the Rcmdr user interface. Other, more advanced software exists that perform QCA algorithms but none of them offer the kind of development R has in terms of code readability, code sharing and helpful advice from a wide community. An R package for QCA emerges and its development is just beginning as the level of interest in R increases constantly."
 abstract_short = ""
 
 # Featured image thumbnail (optional)
