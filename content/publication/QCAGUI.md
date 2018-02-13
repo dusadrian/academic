@@ -36,7 +36,7 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "https://www.sciencedirect.com/science/article/pii/S0148296307000148"
+# url_pdf = ""
 # url_preprint = ""
 # url_code = ""
 # url_dataset = ""
@@ -45,6 +45,9 @@ url_pdf = "https://www.sciencedirect.com/science/article/pii/S0148296307000148"
 # url_video = ""
 # url_poster = ""
 # url_source = ""
+
+url_custom = [{name = "DOI", url = "https://www.sciencedirect.com/science/article/pii/S0148296307000148"}]
+
 
 # Does the content use math formatting?
 # math = true
@@ -62,8 +65,6 @@ caption = ""
 vol. 60(5)
 
 pp. 576-586
-
-DOI: 10.1016/j.jbusres.2007.01.002
 
 Keywords: Comparative analysis, R, Boolean algebra, Crisp sets, Fuzzy sets, Venn diagrams
 

@@ -36,7 +36,7 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "https://link.springer.com/article/10.1007/s11135-008-9183-x"
+# url_pdf = ""
 # url_preprint = ""
 # url_code = ""
 # url_dataset = ""
@@ -45,6 +45,9 @@ url_pdf = "https://link.springer.com/article/10.1007/s11135-008-9183-x"
 # url_video = ""
 # url_poster = ""
 # url_source = ""
+
+url_custom = [{name = "DOI", url = "https://link.springer.com/article/10.1007/s11135-008-9183-x"}]
+
 
 # Does the content use math formatting?
 # math = true
@@ -62,8 +65,6 @@ caption = ""
 vol.44(1)
 
 pp.99-113
-
-DOI: 10.1007/s11135-008-9183-x
 
 Keywords: Qualitative Comparative Analysis, Boolean minimization, Computer algorithms, Small-N research 
 

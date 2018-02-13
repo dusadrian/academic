@@ -37,13 +37,16 @@ selected = false
 # Links (optional).
 # url_pdf = ""
 # url_preprint = ""
-url_code = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QE27H9"
+# url_code = ""
 # url_dataset = ""
 # url_project = ""
 # url_slides = ""
 # url_video = ""
 # url_poster = ""
 # url_source = ""
+
+url_custom = [{name = "DOI", url = "https://doi.org/10.1093/pan/mpv028"}, {name = "replication", url = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/QE27H9"}]
+
 
 # Does the content use math formatting?
 # math = true
@@ -61,5 +64,3 @@ caption = ""
 vol. 24(1)
 
 pp.104-120
-
-DOI: 10.1093/pan/mpv028

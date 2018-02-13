@@ -45,6 +45,9 @@ url_pdf = "http://journals.sagepub.com/doi/pdf/10.4256/mio.2010.0037"
 # url_poster = ""
 # url_source = ""
 
+url_custom = [{name = "DOI", url = "https://doi.org/10.4256/mio.2010.0037"}]
+
+
 # Does the content use math formatting?
 # math = true
 
@@ -61,8 +64,6 @@ caption = ""
 vol.6(2)
 
 pp.97-142
-
-DOI: 10.4256/mio.2010.0037
 
 Keywords: Qualitative Comparative Analysis (csQCA), comparative research, Configurational Analysis, contradictions, consistency
 

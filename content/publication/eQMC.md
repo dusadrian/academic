@@ -45,6 +45,9 @@ selected = false
 # url_poster = ""
 # url_source = ""
 
+url_custom = [{name = "DOI", url = "https://doi.org/10.1080/0022250X.2014.897949"}, {name = "replication", url = "http://www.tandfonline.com/doi/suppl/10.1080/0022250X.2014.897949?scroll=top"}]
+
+
 # Does the content use math formatting?
 # math = true
 
@@ -61,7 +64,5 @@ caption = ""
 vol.39
 
 pp. 92-108
-
-DOI: 10.1080/0022250X.2014.897949
 
 Keywords: Boolean minimization, enhanced Quine-McCluskey algorithm, Qualitative Comparative Analysis (QCA), Quine-McCluskey algorithm, set theory
