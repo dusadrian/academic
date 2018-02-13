@@ -6,7 +6,7 @@ time_start = 2018-02-08T15:20:00
 time_end = 2018-02-08T15:40:00
 abstract = ""
 abstract_short = ""
-event = "Academic Theme Conference"
+event = "Workshop"
 event_url = ""
 location = "Milan, Italy"
 
