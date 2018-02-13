@@ -1,9 +1,9 @@
 +++
-title = "Qualitative Comparative Analysis with R. A user's guide"
-date = "2013-01-01"
+title = "A Data Archive for Social Sciences in Romania"
+date = "2001-06-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alrik Thiem", "Adrian Dușa"]
+authors = ["Adrian Dușa"]
 
 # Publication type.
 # Legend:
@@ -14,17 +14,18 @@ authors = ["Alrik Thiem", "Adrian Dușa"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["5"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-# publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "Springer Briefs in Political Science"
+publication = "In *IASSIST Quarterly*"
+# publication_short = ""
 
 # Abstract and optional shortened version.
 abstract = ""
+abstract_short = ""
 
 # Featured image thumbnail (optional)
-image_preview = "QCAwR1.jpg"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -32,35 +33,35 @@ selected = false
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
 #   Simply enter the filename (excluding '.md') of your project file in `content/project/`.
-# projects = ["example-external-project"]
+# projects = ["deep-learning"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "files/2001-IQ.pdf"
 # url_preprint = ""
-# url_code = "#"
-# url_dataset = "#"
-# url_project = "#"
-# url_slides = "#"
-# url_video = "#"
-# url_poster = "#"
-# url_source = "#"
+# url_code = ""
+# url_dataset = ""
+# url_project = ""
+# url_slides = ""
+# url_video = ""
+# url_poster = ""
+# url_source = ""
 
-# Custom links (optional).
-#   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "URL", url = "http://www.springer.com/gp/book/9781461445838"}]
+url_custom = [{name = "URL", url = "http://www.iassistdata.org/iq/issue/25/2"}]
+
 
 # Does the content use math formatting?
-math = true
+# math = true
 
 # Does the content use source code highlighting?
-highlight = true
+# highlight = true
 
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "QCAwR1.jpg"
+image = ""
 caption = ""
-
 +++
+
+
 
 

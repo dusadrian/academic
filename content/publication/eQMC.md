@@ -35,7 +35,7 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "files/2015-eQMC.pdf"
 # url_preprint = ""
 # url_code = ""
 # url_dataset = ""
@@ -66,3 +66,4 @@ vol.39
 pp. 92-108
 
 Keywords: Boolean minimization, enhanced Quine-McCluskey algorithm, Qualitative Comparative Analysis (QCA), Quine-McCluskey algorithm, set theory
+

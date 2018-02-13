@@ -1,13 +1,13 @@
 +++
 title = "Recent & Upcoming Talks"
 date = "2017-01-01T00:00:00Z"
-math = false
-highlight = false
+math = true
+highlight = true
 
 # List format.
 #   0 = Simple
 #   1 = Detailed
-list_format = 0
+list_format = 1
 
 # Optional featured image (relative to `static/img/` folder).
 [header]

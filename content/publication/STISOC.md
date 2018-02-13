@@ -1,9 +1,9 @@
 +++
-title = "Qualitative Comparative Analysis with R. A user's guide"
-date = "2013-01-01"
+title = "Publicul și știința. Interese și percepții ale publicului privind cercetarea științifică și rezultatele cercetării"
+date = "2010-11-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alrik Thiem", "Adrian Dușa"]
+authors = ["Lazăr Vlăsceanu", "Adrian Dușa", "Cosima Rughiniș"]
 
 # Publication type.
 # Legend:
@@ -14,17 +14,17 @@ authors = ["Alrik Thiem", "Adrian Dușa"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["5"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-# publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "Springer Briefs in Political Science"
+# publication = ""
+# publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Proiectul STISOC - Știință și societate. Interese și percepții ale publicului privind cercetarea științifică și rezultatele cercetării - a fost finanțat de Autoritatea Națională pentru Cercetare Științifică din România, în cadrul programului PN II Capacități 2008, prin contractul nr. 203 din 10.09.2008. Investigația empirică a constat în elaborarea și aplicarea unui chestionar comparabil cu cele aplicate în cadrul Eurobarometrului Special al Comisiei Europene, și a fost realizată în perioada iulie-septembrie 2009 pe un eșantion stratificat multistadial probabilist, reprezentativ pentru populația în vârstă de peste 18 ani din România. Interpretările și opiniile exprimate în acest Raport sunt cele ale autorilor și nu angajează nicio instituție universitară sau de cercetare din țară sau străinătate."
 
 # Featured image thumbnail (optional)
-image_preview = "QCAwR1.jpg"
+image_preview = ""
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -35,7 +35,7 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "files/2010-STISOC.pdf"
 # url_preprint = ""
 # url_code = "#"
 # url_dataset = "#"
@@ -47,7 +47,6 @@ selected = false
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "URL", url = "http://www.springer.com/gp/book/9781461445838"}]
 
 # Does the content use math formatting?
 math = true
@@ -58,7 +57,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "QCAwR1.jpg"
+image = ""
 caption = ""
 
 +++

@@ -35,7 +35,7 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = "http://journals.sagepub.com/doi/pdf/10.1177/0894439313478999"
+pdf = "files/2013-BMSSR.pdf"
 # url_preprint = ""
 # url_code = ""
 # url_dataset = ""
@@ -44,6 +44,10 @@ url_pdf = "http://journals.sagepub.com/doi/pdf/10.1177/0894439313478999"
 # url_video = ""
 # url_poster = ""
 # url_source = ""
+
+
+url_custom = [{name = "DOI", url = "http://journals.sagepub.com/doi/10.1177/0894439313478999"}]
+
 
 # Does the content use math formatting?
 # math = true
@@ -61,8 +65,6 @@ caption = ""
 vol.31(4)
 
 pp.505-521
-
-DOI: 10.1177/0894439313478999
 
 Keywords: Qualitative Comparative Analysis, Boolean minimization, fs/QCA, QCA, Tosmana
 

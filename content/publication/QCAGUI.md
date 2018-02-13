@@ -36,7 +36,7 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "files/2007-QCAGUI.pdf"
 # url_preprint = ""
 # url_code = ""
 # url_dataset = ""

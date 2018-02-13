@@ -36,7 +36,7 @@ selected = false
 # projects = ["deep-learning"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "fiels/2010-MABMP.pdf"
 # url_preprint = ""
 # url_code = ""
 # url_dataset = ""

@@ -1,9 +1,9 @@
 +++
-title = "Qualitative Comparative Analysis with R. A user's guide"
-date = "2013-01-01"
+title = "R cu aplicații în statistică"
+date = "2015-03-01"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Alrik Thiem", "Adrian Dușa"]
+authors = ["Adrian Dușa", "Bogdan Oancea", "Nicoleta Caragea", "Ciprian Alexandru", "Nicolae Marius Jula", "Ana Maria Dobre"]
 
 # Publication type.
 # Legend:
@@ -17,14 +17,14 @@ authors = ["Alrik Thiem", "Adrian Dușa"]
 publication_types = ["5"]
 
 # Publication name and optional abbreviated version.
-# publication = "In *International Conference on Multimedia and Expo Workshops (ICMEW)*, IEEE."
-publication_short = "Springer Briefs in Political Science"
+# publication = ""
+publication_short = " Editura Universității din București"
 
 # Abstract and optional shortened version.
-abstract = ""
+abstract = "Echipa R-omânia (www.r-project.ro) acționează ca o comunitate de utilizatori pentru popularizarea mediului de programare statistică R în lumea academică, dar și pentru persoane fizice, instituții și autorități publice, precum și pentru organizații comerciale și necomerciale din România. De asemenea, promovează R cu scopul de a oferi o soluție gratuită și un software open source în România: inițiază, promovează și coordonează proiecte de cercetare, sprijină comunicarea în cadrul comunității de utilizatori R, organizează conferințe științifice, ateliere de lucru și cursuri de pregătire pentru utilizarea R și a altor soluții software ce integrează R în România."
 
 # Featured image thumbnail (optional)
-image_preview = "QCAwR1.jpg"
+image_preview = "2015-RASCover.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -35,7 +35,7 @@ selected = false
 # projects = ["example-external-project"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "files/2015-RAS.pdf"
 # url_preprint = ""
 # url_code = "#"
 # url_dataset = "#"
@@ -47,7 +47,7 @@ selected = false
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "URL", url = "http://www.springer.com/gp/book/9781461445838"}]
+# url_custom = [{name = "", url = ""}]
 
 # Does the content use math formatting?
 math = true
@@ -58,7 +58,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "QCAwR1.jpg"
+image = "2015-RASCover.jpg"
 caption = ""
 
 +++

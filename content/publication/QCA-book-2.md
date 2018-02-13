@@ -1,6 +1,6 @@
 +++
 title = "QCA with R. A comprehensive resource"
-date = "2018-02-12"
+date = "2018-04-15"
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Adrian Dușa"]
@@ -60,7 +60,7 @@ highlight = true
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
 image = "headers/bubbles-wide.jpg"
-caption = "My caption :smile:"
+caption = ""
 
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "Publications"
-date = "2017-01-01T00:00:00Z"
+date = "2018-02-13T00:00:00Z"
 math = true
 highlight = true
 
@@ -9,7 +9,7 @@ highlight = true
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 1
+list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
