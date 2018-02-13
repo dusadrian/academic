@@ -36,7 +36,7 @@ selected = true
 # projects = ["deep-learning"]
 
 # Links (optional).
-# url_pdf = ""
+url_pdf = "files/2018-CCubes.pdf"
 # url_preprint = ""
 # url_code = ""
 # url_dataset = ""
