@@ -21,10 +21,10 @@ publication_types = ["5"]
 publication_short = " Editura Universității din București"
 
 # Abstract and optional shortened version.
-abstract = "Echipa R-omânia (www.r-project.ro) acționează ca o comunitate de utilizatori pentru popularizarea mediului de programare statistică R în lumea academică, dar și pentru persoane fizice, instituții și autorități publice, precum și pentru organizații comerciale și necomerciale din România. De asemenea, promovează R cu scopul de a oferi o soluție gratuită și un software open source în România: inițiază, promovează și coordonează proiecte de cercetare, sprijină comunicarea în cadrul comunității de utilizatori R, organizează conferințe științifice, ateliere de lucru și cursuri de pregătire pentru utilizarea R și a altor soluții software ce integrează R în România."
+abstract = "Echipa R-omânia ([www.r-project.ro](http://www.r-project.ro)) acționează ca o comunitate de utilizatori pentru popularizarea mediului de programare statistică R în lumea academică, dar și pentru persoane fizice, instituții și autorități publice, precum și pentru organizații comerciale și necomerciale din România. De asemenea, promovează R cu scopul de a oferi o soluție gratuită și un software open source în România: inițiază, promovează și coordonează proiecte de cercetare, sprijină comunicarea în cadrul comunității de utilizatori R, organizează conferințe științifice, ateliere de lucru și cursuri de pregătire pentru utilizarea R și a altor soluții software ce integrează R în România."
 
 # Featured image thumbnail (optional)
-image_preview = "2015-RASCover.jpg"
+image_preview = "2015-RAS.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -58,9 +58,14 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "2015-RASCover.jpg"
+image = ""
 caption = ""
+
+[[gallery_item]]
+album = "1"
+image = "2015-RAS.jpg"
+caption = "Book cover"
 
 +++
 
-
+{{< gallery album="1" >}}

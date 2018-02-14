@@ -59,9 +59,14 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "2014-EAC.jpg"
+image = ""
 caption = ""
+
+[[gallery_item]]
+album = "1"
+image = "2014-EAC.jpg"
+caption = "Book cover"
 
 +++
 
-
+{{< gallery album="1" >}}

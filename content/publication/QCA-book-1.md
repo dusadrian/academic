@@ -24,7 +24,7 @@ publication_short = "Springer Briefs in Political Science"
 abstract = ""
 
 # Featured image thumbnail (optional)
-image_preview = "QCAwR1.jpg"
+image_preview = "2013-QCAwR.jpg"
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -58,9 +58,16 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "QCAwR1.jpg"
+image = ""
 caption = ""
 
+[[gallery_item]]
+album = "1"
+image = "2013-QCAwR.jpg"
+caption = "Book cover"
+
 +++
+
+{{< gallery album="1" >}}
 
 

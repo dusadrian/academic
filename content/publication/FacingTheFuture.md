@@ -62,10 +62,18 @@ highlight = true
 image = ""
 caption = ""
 
+[[gallery_item]]
+album = "1"
+image = "2014-FFERIHSS.jpg"
+caption = "Book cover"
+
 +++
 
+{{< gallery album="1" >}}
 
-Others about the book:
+$\phantom{a}$
+
+Echos about the book:
 https://www.timeshighereducation.com/news/humanities-research-needs-firm-foundations/2014810.article
 
 
