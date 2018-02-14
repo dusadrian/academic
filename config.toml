@@ -23,7 +23,7 @@ paginate = 10
 disqusShortname = "adriandusa-eu"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-42373034-2"
 
 # Default language to use (if you setup multilingual support)
 defaultContentLanguage = "en"
@@ -72,7 +72,7 @@ defaultContentLanguageInSubdir = false
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
-  discussion = { name = "Discuss", url = "https://discourse.gohugo.io" }
+  discussion = { name = "Discuss", url = "https://www.tapatalk.com/groups/qca/" }
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
