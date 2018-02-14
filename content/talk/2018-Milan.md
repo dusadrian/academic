@@ -19,7 +19,7 @@ selected = true
 # projects = ["deep-learning"]
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "files/presentations/2018-Beyond-QMC.pdf"
 url_slides = ""
 url_video = ""
 url_code = ""
@@ -33,38 +33,10 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = "headers/bubbles-wide.jpg"
+image = "boards.jpg"
 caption = ""
 
 +++
-
-## QCA and the Boolean minimization process
-
-> "If two or more instances of the phenomenon under investigation have only one circumstance in common, the circumstance in which alone all the instances agree, is the cause (or effect) of the given phenomenon."
-
-John Stuart Mill, A System of Logic, Vol. 1. 1843. p. 454.
-
-
-
-## Boolean minimization algorithms
-
-- classical Quine-McCluskey (QMC)
-
-- improved QMC
-
-- enhanced QMC (eQMC)
-
-- Espresso
-
-- CCubes
-
-
-All of these algorithms have a truth table as an input.
-
-
-## Math
-
-$$\left [ – \frac{\hbar^2}{2 m} \frac{\partial^2}{\partial x^2} + V \right ] \Psi = i \hbar \frac{\partial}{\partial t} \Psi$$
 
 
 
