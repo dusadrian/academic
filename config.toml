@@ -3,7 +3,7 @@
 
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseurl = "/"
+baseurl = "https://www.adriandusa.eu/"
 
 # Title of your site
 title = ""
@@ -18,6 +18,9 @@ footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 10
+
+[permalinks]
+    post = "/:year/:month/:day/:slug/"
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = "adriandusa-eu"
@@ -260,7 +263,7 @@ defaultContentLanguageInSubdir = false
   weight = 3
 
 [[menu.main]]
-  name = "Posts"
+  name = "Blog posts"
   url = "#posts"
   weight = 4
 
@@ -275,9 +278,14 @@ defaultContentLanguageInSubdir = false
   weight = 6
 
 [[menu.main]]
+  name = "Consultancy"
+  url = "#consultancy"
+  weight = 7
+
+[[menu.main]]
   name = "Contact"
   url = "#contact"
-  weight = 7
+  weight = 8
 
 # Taxonomies.
 [taxonomies]

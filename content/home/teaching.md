@@ -17,6 +17,8 @@ weight = 60
 
 At the Department of Sociology, I teaching the following classes:
 
-- Descriptive Statistics
-- Inferential Statistics
+- [Descriptive Statistics](http://193.231.1.6/course/view.php?id=123)
+- [Inferential Statistics](http://193.231.1.6/course/view.php?id=5)
 - Measurement in the social sciences
+
+My prefered e-learning platform is Moodle, where students complete quizzes and build their final grade throughout the entire semester.

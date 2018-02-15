@@ -2,8 +2,10 @@
 title = "Creating this personal website using R"
 
 date = 2018-02-12
-lastmod = 2018-01-15
+lastmod = 2018-02-15
 draft = false
+
+slug = "first-post"
 
 tags = [""]
 summary = "For the interested ones."
@@ -14,7 +16,7 @@ caption = ""
 
 +++
 
-Creating a personal webpage was a long overdue item on my list. Some years ago I tried a [Google hosted site](https://www.sites.google.com/site/dusadrian/) which was enough at the time, but never got to update it since it was just too tedious to works with the low level HTML code all the time. In addition, it missed all the beautiful features of the modern web: having a responsive page to render on desktops, tablets  and mobile phones, sharing a post, commenting on it, etc.
+Creating a personal webpage was a long overdue item on my list. Some years ago I tried a [Google hosted site](https://www.sites.google.com/site/dusadrian/) which was good enough at the time, but never got to update it since it was just too tedious to works with the low level HTML code. In addition, it missed all the beautiful features of the modern web: having a responsive page to render on desktops, tablets  and mobile phones, sharing a post, commenting on it, etc.
 
 I have been looking for various alternatives ever since, but not completely convinced by any one. Until a few months ago, when Yihui Xie announced the creation of the [**blogdown**](https://cran.r-project.org/web/packages/blogdown/index.html) package in R, designed specifically to create a website (or a blog) in a matter of minutes.
 
