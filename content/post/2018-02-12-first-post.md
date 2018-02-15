@@ -7,7 +7,7 @@ draft = false
 
 slug = "first-post"
 
-tags = [""]
+tags = ["blogdown", "R", "Hugo"]
 summary = "For the interested ones."
 
 [header]
