@@ -21,7 +21,7 @@ publication_types = ["5"]
 publication_short = "Editura Universității din București"
 
 # Abstract and optional shortened version.
-abstract = "Elemente de analiză comparativă face o prezentare a unui domeniu metodologic bogat, care a cunoscut o explozie de interes în ultimii 25 de ani. Dezvoltată cu precărede în sociologie şi ştiinţele politice, analiza calitativ comparativă poate fi aplicată cu succes în orice domeniu de cercetare socială prin utilizarea unui algoritm de minimizare booleană, rezultatul fiind o combinaţie cauzală minimă care este asociată cu producerea unui fenomen de interes. Cartea se doreşte a fi o introducere lejeră în această metodologie de cercetare, cu toate punctele tari dar şi cu criticile asociate. Primul capitol analizează diferenţele dintre calitativ şi cantitativ în ştiinţele sociale, iar următoarele două capitole arată cum analiza comparativă reuşeşte să medieze cele două lumi. Al patrulea capitol reia noţiuni de teoria mulţimilor, iar capitolul final descrie metodologia de analiză calitativ comparativă, în special dezvoltarea modernă a acesteia cu ajutorul mulţimilor vagi."
+abstract = ""
 # abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -59,7 +59,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-image = ""
+image = "2014-EAC.jpg"
 caption = ""
 
 [[gallery_item]]
@@ -70,3 +70,7 @@ caption = "Book cover"
 +++
 
 {{< gallery album="1" >}}
+
+$~$
+
+Elemente de analiză comparativă face o prezentare a unui domeniu metodologic bogat, care a cunoscut o explozie de interes în ultimii 25 de ani. Dezvoltată cu precărede în sociologie şi ştiinţele politice, analiza calitativ comparativă poate fi aplicată cu succes în orice domeniu de cercetare socială prin utilizarea unui algoritm de minimizare booleană, rezultatul fiind o combinaţie cauzală minimă care este asociată cu producerea unui fenomen de interes. Cartea se doreşte a fi o introducere lejeră în această metodologie de cercetare, cu toate punctele tari dar şi cu criticile asociate. Primul capitol analizează diferenţele dintre calitativ şi cantitativ în ştiinţele sociale, iar următoarele două capitole arată cum analiza comparativă reuşeşte să medieze cele două lumi. Al patrulea capitol reia noţiuni de teoria mulţimilor, iar capitolul final descrie metodologia de analiză calitativ comparativă, în special dezvoltarea modernă a acesteia cu ajutorul mulţimilor vagi.

@@ -66,8 +66,12 @@ album = "1"
 image = "2013-QCAwR.jpg"
 caption = "Book cover"
 
+
+
 +++
 
 {{< gallery album="1" >}}
 
+$~$
 
+This book is now obsolete, being replaced by [this new one]({{< ref "QCA-book-2.md" >}}) (soon to be published at Springer). 

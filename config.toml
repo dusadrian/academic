@@ -65,14 +65,14 @@ defaultContentLanguageInSubdir = false
   office_hours = "email for appointment"
   phone = "+40 740 147489"
   skype = "dusa.adrian"
-  telegram = ""
+  telegram = "dusadrian"
 
   # Enable Keybase in Contact widget by entering your keybase.io username.
   keybase = ""
 
   # Discussion link (e.g. link to a forum, mailing list, or chat).
   #   Uncomment line below to use.
-  discussion = { name = "Discuss", url = "https://www.tapatalk.com/groups/qca/" }
+  discussion = { name = "Discussion forum", url = "https://www.tapatalk.com/groups/qca/" }
 
   # Diplay a logo in navigation bar rather than title (optional).
   #   To enable, place an image in `static/img/` and reference its filename below. To disable, set the value to "".
