@@ -65,6 +65,6 @@ In order to shorten the execution time, the search space (the implicant matrix) 
 
 $$\prod_{c = 1}^{k} (l_c + 1) = 1 + \sum\_{c = 1}^{k}\binom{k}{c}\prod\_{s = 1}^{c} l_s$$
 
-The left hand side of this equation is the entire implicants chart (including the original, observed truth table configurations) and the right hand side is the same space partitioned in layers of complexity.
+The left hand side of this equation represents the entire implicant matrix (including the original, observed truth table configurations) and the right hand side is the same space partitioned in layers of complexity.
 
 
