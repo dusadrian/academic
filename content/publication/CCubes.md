@@ -17,7 +17,7 @@ authors = ["Adrian Dușa"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *R Journal*"
+publication = "In *R Journal* (forthcoming)"
 publication_short = "In *R Journal*"
 
 # Abstract and optional shortened version.
