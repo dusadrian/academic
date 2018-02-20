@@ -1,5 +1,5 @@
 +++
-title = "Creating this personal website using R"
+title = "Creating this personal blogsite using R"
 
 date = 2018-02-12
 lastmod = 2018-02-15
