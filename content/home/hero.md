@@ -4,7 +4,7 @@ widget = "hero"
 active = true
 date = 2018-02-12
 
-title = "Academic blog"
+title = "Academic blogsite"
 
 # Order that this section will appear in.
 weight = 3
