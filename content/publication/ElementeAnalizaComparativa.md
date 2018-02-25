@@ -5,6 +5,8 @@ date = "2014-10-01"
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Adrian Dușa"]
 
+tags = ["QCA"]
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized

@@ -4,6 +4,8 @@ date = "2018-02-12"
 
 authors = ["Adrian Dușa"]
 
+tags = ["R", "QCA"]
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
