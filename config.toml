@@ -23,7 +23,7 @@ paginate = 10
     post = "/:year/:month/:day/:slug/"
 
 # Enable comments by entering your Disqus shortname
-disqusShortname = "adriandusa-eu"
+disqusShortname = "https-adriandusa-eu"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = "UA-42373034-2"
