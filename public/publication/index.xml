@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications on </title>
+    <link>https://adriandusa.eu/publication/</link>
+    <description>Recent content in Publications on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Tue, 13 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://adriandusa.eu/publication/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>QCA with R. A Comprehensive Resource</title>
+      <link>https://adriandusa.eu/publication/qca-book-2/</link>
+      <pubDate>Mon, 12 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/qca-book-2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistency Cubes. A Fast, Efficient Method for exact Boolean Minimization</title>
+      <link>https://adriandusa.eu/publication/ccubes/</link>
+      <pubDate>Sun, 11 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/ccubes/</guid>
+      <description>The main idea of this paper is to find prime implicants from bottom-up, instead of top-down as in the classical Quine-McCluskey algorithm.
+In order to shorten the execution time, the search space (the implicant matrix) is partitioned in succesive layers of complexity, given the following equality:
+$$\prod_{c = 1}^{k} (l_c + 1) = 1 + \sum_{c = 1}^{k}\binom{k}{c}\prod_{s = 1}^{c} l_s$$
+The left hand side of this equation represents the entire implicant matrix (including the original, observed truth table configurations) and the right hand side is the same space partitioned in layers of complexity.</description>
+    </item>
+    
+    <item>
+      <title>Enhancing Sensitivity Diagnostics for Qualitative Comparative Analysis: A Combinatorial Approach</title>
+      <link>https://adriandusa.eu/publication/retention/</link>
+      <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/retention/</guid>
+      <description>vol. 24(1)
+pp.104-120</description>
+    </item>
+    
+    <item>
+      <title>Enhancing the Minimization of Boolean and Multivalue Output Functions With eQMC</title>
+      <link>https://adriandusa.eu/publication/eqmc/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/eqmc/</guid>
+      <description>vol.39
+pp. 92-108
+Keywords: Boolean minimization, enhanced Quine-McCluskey algorithm, Qualitative Comparative Analysis (QCA), Quine-McCluskey algorithm, set theory</description>
+    </item>
+    
+    <item>
+      <title>R cu aplicații în statistică</title>
+      <link>https://adriandusa.eu/publication/ras/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/ras/</guid>
+      <description>$~$
+Echipa R-omânia (www.r-project.ro) acționează ca o comunitate de utilizatori pentru popularizarea mediului de programare statistică R în lumea academică, dar și pentru persoane fizice, instituții și autorități publice, precum și pentru organizații comerciale și necomerciale din România. De asemenea, promovează R cu scopul de a oferi o soluție gratuită și un software open source în România: inițiază, promovează și coordonează proiecte de cercetare, sprijină comunicarea în cadrul comunității de utilizatori R, organizează conferințe științifice, ateliere de lucru și cursuri de pregătire pentru utilizarea R și a altor soluții software ce integrează R în România.</description>
+    </item>
+    
+    <item>
+      <title>Elemente de analiză comparativă</title>
+      <link>https://adriandusa.eu/publication/elementeanalizacomparativa/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/elementeanalizacomparativa/</guid>
+      <description>$~$
+Elemente de analiză comparativă face o prezentare a unui domeniu metodologic bogat, care a cunoscut o explozie de interes în ultimii 25 de ani. Dezvoltată cu precărede în sociologie şi ştiinţele politice, analiza calitativ comparativă poate fi aplicată cu succes în orice domeniu de cercetare socială prin utilizarea unui algoritm de minimizare booleană, rezultatul fiind o combinaţie cauzală minimă care este asociată cu producerea unui fenomen de interes.</description>
+    </item>
+    
+    <item>
+      <title>A common agenda for the European Research Infrastructures in the Social Sciences and Humanities</title>
+      <link>https://adriandusa.eu/publication/dow/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/dow/</guid>
+      <description>pp. 225-232</description>
+    </item>
+    
+    <item>
+      <title>Facing the Future. European Research Infrastructures for the Humanities and Social Sciences</title>
+      <link>https://adriandusa.eu/publication/facingthefuture/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/facingthefuture/</guid>
+      <description>$~$
+In 20 articles experts from research, politics and research management discuss current challenges and future advancements of European research infrastructures for the humanities and social sciences, particularly in view of the funding scheme Horizon 2020 and the ESRFI Roadmap update. Starting with an overview of SSH infrastructures it elaborates on four specific areas that increasingly demand a pan-European approach. Drawing from the SSH infrastructure projects&amp;rsquo; experience, it then (re-) defines the requirements and potential for next generation infrastructure projects.</description>
+    </item>
+    
+    <item>
+      <title>QCA: A Package for Qualitative Comparative Analysis</title>
+      <link>https://adriandusa.eu/publication/qcapackage/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/qcapackage/</guid>
+      <description>vol.5(1)
+pp.87-97</description>
+    </item>
+    
+    <item>
+      <title>Boolean Minimization in Social Science Research: A Review of Current Software for Qualitative Comparative Analysis (QCA)</title>
+      <link>https://adriandusa.eu/publication/softwarereview/</link>
+      <pubDate>Wed, 06 Mar 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/softwarereview/</guid>
+      <description>vol.31(4)
+pp.505-521
+Keywords: Qualitative Comparative Analysis, Boolean minimization, fs/QCA, QCA, Tosmana</description>
+    </item>
+    
+    <item>
+      <title>Qualitative Comparative Analysis with R. A user&#39;s guide</title>
+      <link>https://adriandusa.eu/publication/qca-book-1/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/qca-book-1/</guid>
+      <description>$~$
+This book is now obsolete, being replaced by this new one (soon to be published at Springer).</description>
+    </item>
+    
+    <item>
+      <title>The Visual Analogue Scale. An Alternative to the Likert Type Response Scales. An Alternative to the Likert Type Response Scales</title>
+      <link>https://adriandusa.eu/publication/vas/</link>
+      <pubDate>Sat, 01 Oct 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/vas/</guid>
+      <description>vol.1(1)
+pp. 92-108
+Keywords: Research methodology, response scales, internal consistency, Likert Scale</description>
+    </item>
+    
+    <item>
+      <title>Crisp-Set Qualitative Comparative Analysis (csQCA), Contradictions and Consistency Benchmarks for Model Specification</title>
+      <link>https://adriandusa.eu/publication/marxdusa/</link>
+      <pubDate>Mon, 01 Aug 2011 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/marxdusa/</guid>
+      <description>vol.6(2)
+pp.97-142
+Keywords: Qualitative Comparative Analysis (csQCA), comparative research, Configurational Analysis, contradictions, consistency</description>
+    </item>
+    
+    <item>
+      <title>Publicul și știința. Interese și percepții ale publicului privind cercetarea științifică și rezultatele cercetării</title>
+      <link>https://adriandusa.eu/publication/stisoc/</link>
+      <pubDate>Mon, 01 Nov 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/stisoc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A mathematical approach to the Boolean minimization problem</title>
+      <link>https://adriandusa.eu/publication/mathematical-approach/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/mathematical-approach/</guid>
+      <description>vol.44(1)
+pp.99-113
+Keywords: Qualitative Comparative Analysis, Boolean minimization, Computer algorithms, Small-N research</description>
+    </item>
+    
+    <item>
+      <title>User manual for the QCA(GUI) package in R</title>
+      <link>https://adriandusa.eu/publication/qcagui/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/qcagui/</guid>
+      <description>vol. 60(5)
+pp. 576-586
+Keywords: Comparative analysis, R, Boolean algebra, Crisp sets, Fuzzy sets, Venn diagrams</description>
+    </item>
+    
+    <item>
+      <title>QCA – Analiza Calitativă Comparativă. Aplicații, instrumente și potențial</title>
+      <link>https://adriandusa.eu/publication/qca-sr/</link>
+      <pubDate>Sun, 01 Oct 2006 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/qca-sr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating data services in new democracies. Experiences from a case study and related neighbours</title>
+      <link>https://adriandusa.eu/publication/issj/</link>
+      <pubDate>Mon, 01 Sep 2003 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/issj/</guid>
+      <description>vol 177(55)
+pp. 401-405</description>
+    </item>
+    
+    <item>
+      <title>The Romanian Social Science Data Archive</title>
+      <link>https://adriandusa.eu/publication/ssdaee/</link>
+      <pubDate>Sun, 24 Feb 2002 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/ssdaee/</guid>
+      <description>pp. 207-212</description>
+    </item>
+    
+    <item>
+      <title>A Data Archive for Social Sciences in Romania</title>
+      <link>https://adriandusa.eu/publication/iassistq/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/publication/iassistq/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

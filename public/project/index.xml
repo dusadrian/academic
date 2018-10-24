@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on </title>
+    <link>https://adriandusa.eu/project/</link>
+    <description>Recent content in Projects on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Sun, 25 Feb 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://adriandusa.eu/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The QCA package in R</title>
+      <link>https://adriandusa.eu/project/qca-package-in-r/</link>
+      <pubDate>Sun, 25 Feb 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://adriandusa.eu/project/qca-package-in-r/</guid>
+      <description>This project started in 2007, while visiting the COMPASSS center at Université Catholique de Louvain.
+I was then doing my PhD in comparative analysis, and thought it was a good idea to learn both R and QCA by programming the Boolean minimization algorithm. Over the years, the package grew larger and larger in functionality and it is now one of the best QCA software in the world.
+The package is published on the CRAN repository.</description>
+    </item>
+    
+  </channel>
+</rss>
