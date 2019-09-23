@@ -1,25 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on </title>
-    <link>https://adriandusa.eu/post/</link>
-    <description>Recent content in Posts on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0200</lastBuildDate>
-    
-	<atom:link href="https://adriandusa.eu/post/index.xml" rel="self" type="application/rss+xml" />
-    
-    
-    <item>
-      <title>Creating this personal blogsite using R</title>
-      <link>https://adriandusa.eu/2018/02/12/first-post/</link>
-      <pubDate>Mon, 12 Feb 2018 00:00:00 +0200</pubDate>
-      
-      <guid>https://adriandusa.eu/2018/02/12/first-post/</guid>
-      <description>Creating a personal webpage was a long overdue item on my list. Some years ago I tried a Google hosted site which was good enough at the time, but never got to update it since it was just too tedious to work with the low level HTML code. In addition, it missed all the nice features of the modern web: a responsive page to render on desktops, tablets and mobile phones, sharing a post, commenting on it, etc.</description>
-    </item>
+    <title>Posts | </title>
+    <link>/post/</link>
+      <atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Posts</title>
+      <link>/post/</link>
+    </image>
     
   </channel>
 </rss>

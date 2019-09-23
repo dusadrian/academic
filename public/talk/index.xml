@@ -1,23 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Recent &amp; Upcoming Talks on </title>
-    <link>https://adriandusa.eu/talk/</link>
-    <description>Recent content in Recent &amp; Upcoming Talks on </description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <copyright>&amp;copy; 2018</copyright>
-    <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://adriandusa.eu/talk/index.xml" rel="self" type="application/rss+xml" />
-    
+    <title>Recent &amp; Upcoming Talks | </title>
+    <link>/talk/</link>
+      <atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent &amp; Upcoming Talks</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Thu, 08 Feb 2018 15:20:00 +0200</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Recent &amp; Upcoming Talks</title>
+      <link>/talk/</link>
+    </image>
     
     <item>
-      <title>Configurational analysis beyond the Quine-McCluskey algorithm</title>
-      <link>https://adriandusa.eu/talk/2018-milan/</link>
+      <title>Configurational analysis beyond the Quine-McCluskey algorithm.</title>
+      <link>/talk/2018-milan/</link>
       <pubDate>Thu, 08 Feb 2018 15:20:00 +0200</pubDate>
-      
-      <guid>https://adriandusa.eu/talk/2018-milan/</guid>
+      <guid>/talk/2018-milan/</guid>
       <description></description>
     </item>
     

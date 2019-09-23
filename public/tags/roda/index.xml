@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>RODA | </title>
+    <link>/tags/roda/</link>
+      <atom:link href="/tags/roda/index.xml" rel="self" type="application/rss+xml" />
+    <description>RODA</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 24 Feb 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>RODA</title>
+      <link>/tags/roda/</link>
+    </image>
+    
+    <item>
+      <title>The Romanian Social Science Data Archive</title>
+      <link>/publication/2002-ssdaee/</link>
+      <pubDate>Sun, 24 Feb 2002 00:00:00 +0000</pubDate>
+      <guid>/publication/2002-ssdaee/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Data Archive for Social Sciences in Romania</title>
+      <link>/publication/2001-iassist-quarterly/</link>
+      <pubDate>Fri, 01 Jun 2001 00:00:00 +0000</pubDate>
+      <guid>/publication/2001-iassist-quarterly/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

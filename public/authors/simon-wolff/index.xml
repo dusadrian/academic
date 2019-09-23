@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Simon Wolff | </title>
+    <link>/authors/simon-wolff/</link>
+      <atom:link href="/authors/simon-wolff/index.xml" rel="self" type="application/rss+xml" />
+    <description>Simon Wolff</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jul 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Simon Wolff</title>
+      <link>/authors/simon-wolff/</link>
+    </image>
+    
+    <item>
+      <title>A common agenda for the European Research Infrastructures in the Social Sciences and Humanities</title>
+      <link>/publication/2014-common-agenda/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      <guid>/publication/2014-common-agenda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,385 +1,321 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/project/qca-package-in-r/</loc>
-      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/courses/example/example1/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/consultancy/</loc>
-      <lastmod>2018-02-15T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/courses/example/</loc>
+    <lastmod>2018-09-09T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/</loc>
-      <lastmod>2018-02-13T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/courses/example/example2/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/qca-book-2/</loc>
-      <lastmod>2018-02-12T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/</loc>
+    <lastmod>2019-05-05T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/2018/02/12/first-post/</loc>
-      <lastmod>2018-02-15T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/slides/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/ccubes/</loc>
-      <lastmod>2018-02-11T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/slides/example/</loc>
+    <lastmod>2019-02-05T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/talk/2018-milan/</loc>
-      <lastmod>2018-02-08T15:20:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/5/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/tags/academic/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/adrian-dusa/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/talk/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/post/</loc>
-      <lastmod>2017-01-01T00:00:00+02:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/retention/</loc>
-      <lastmod>2016-11-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/eqmc/</loc>
-      <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/qca/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/ras/</loc>
-      <lastmod>2015-03-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/2019-qca-with-r/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/elementeanalizacomparativa/</loc>
-      <lastmod>2014-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/r/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/dow/</loc>
-      <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/tags/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/facingthefuture/</loc>
-      <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/privacy/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/qcapackage/</loc>
-      <lastmod>2013-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/terms/</loc>
+    <lastmod>2018-06-28T00:00:00+01:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/softwarereview/</loc>
-      <lastmod>2013-03-06T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/2018-milan/</loc>
+    <lastmod>2018-02-08T15:20:00+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/qca-book-1/</loc>
-      <lastmod>2013-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/talk/</loc>
+    <lastmod>2018-02-08T15:20:00+02:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/vas/</loc>
-      <lastmod>2011-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication_types/2/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/marxdusa/</loc>
-      <lastmod>2011-08-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/2018-ccubes/</loc>
+    <lastmod>2018-02-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/stisoc/</loc>
-      <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/alrik-thiem/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/mathematical-approach/</loc>
-      <lastmod>2010-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/2016-political-analysis/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/qcagui/</loc>
-      <lastmod>2007-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/reto-spohel/</loc>
+    <lastmod>2016-11-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/qca-sr/</loc>
-      <lastmod>2006-10-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/ana-maria-dobre/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/issj/</loc>
-      <lastmod>2003-09-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/bogdan-oancea/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/ssdaee/</loc>
-      <lastmod>2002-02-24T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/authors/ciprian-alexandru/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication/iassistq/</loc>
-      <lastmod>2001-06-01T00:00:00+00:00</lastmod>
-    </url>
-    
+  <url>
+    <loc>/publication/2015-eqmc/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/</loc>
-      <lastmod>2018-02-12T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/nicolae-marius-jula/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication_types/2/</loc>
-      <lastmod>2018-02-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/nicoleta-caragea/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication_types/4/</loc>
-      <lastmod>2010-11-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/2015-r-cu-aplicatii-in-statistica/</loc>
+    <lastmod>2015-03-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication_types/5/</loc>
-      <lastmod>2018-02-12T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/2014-elemente-de-analiza-comparativa/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication_types/6/</loc>
-      <lastmod>2014-07-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication_types/6/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/tags/blogdown/</loc>
-      <lastmod>2018-02-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/2014-common-agenda/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/categories/</loc>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/claudia-oellers/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/tags/hugo/</loc>
-      <lastmod>2018-02-15T00:00:00+02:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/dietrich-nelle/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/project/</loc>
-      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/tags/esfri/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/publication_types/</loc>
-      <lastmod>2018-02-11T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/publication/2014-facing-the-future/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/tags/qca/</loc>
-      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/gert-g.-wagner/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/tags/r/</loc>
-      <lastmod>2018-02-25T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/gunter-stock/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
   
-    
-    
-    <url>
-    
-      <loc>https://adriandusa.eu/tags/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
+  <url>
+    <loc>/authors/simon-wolff/</loc>
+    <lastmod>2014-07-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-qca-package/</loc>
+    <lastmod>2013-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-boolean-minimization/</loc>
+    <lastmod>2013-03-06T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2013-qca-with-r/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/thiem-alrik/</loc>
+    <lastmod>2013-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2011-scala-analog-vizuala/</loc>
+    <lastmod>2011-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/valeriu-frunzaru/</loc>
+    <lastmod>2011-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/axel-marx/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2011-marx-dusa/</loc>
+    <lastmod>2011-08-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication_types/4/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/cosima-rughinis/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/lazar-vlasceanu/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2010-stisoc/</loc>
+    <lastmod>2010-11-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2010-mathematical-approach/</loc>
+    <lastmod>2010-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2007-qcagui/</loc>
+    <lastmod>2007-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2006-qca-sociologie-romaneasca/</loc>
+    <lastmod>2006-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2003-issj/</loc>
+    <lastmod>2003-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/tags/roda/</loc>
+    <lastmod>2002-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2002-ssdaee/</loc>
+    <lastmod>2002-02-24T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/publication/2001-iassist-quarterly/</loc>
+    <lastmod>2001-06-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>/post/</loc>
+  </url>
   
 </urlset>

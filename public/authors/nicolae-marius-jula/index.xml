@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nicolae Marius Jula | </title>
+    <link>/authors/nicolae-marius-jula/</link>
+      <atom:link href="/authors/nicolae-marius-jula/index.xml" rel="self" type="application/rss+xml" />
+    <description>Nicolae Marius Jula</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Sun, 01 Mar 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Nicolae Marius Jula</title>
+      <link>/authors/nicolae-marius-jula/</link>
+    </image>
+    
+    <item>
+      <title>R cu aplicații în statistică</title>
+      <link>/publication/2015-r-cu-aplicatii-in-statistica/</link>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <guid>/publication/2015-r-cu-aplicatii-in-statistica/</guid>
+      <description>&lt;p&gt;Echipa R-omânia (&lt;a href=&#34;http://www.r-project.ro&#34; target=&#34;_blank&#34;&gt;www.r-project.ro&lt;/a&gt;) acționează ca o comunitate de utilizatori pentru popularizarea mediului de programare statistică R în lumea academică, dar și pentru persoane fizice, instituții și autorități publice, precum și pentru organizații comerciale și necomerciale din România. De asemenea, promovează R cu scopul de a oferi o soluție gratuită și un software open source în România: inițiază, promovează și coordonează proiecte de cercetare, sprijină comunicarea în cadrul comunității de utilizatori R, organizează conferințe științifice, ateliere de lucru și cursuri de pregătire pentru utilizarea R și a altor soluții software ce integrează R în România.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

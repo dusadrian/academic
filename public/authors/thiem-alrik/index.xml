@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Thiem, Alrik | </title>
+    <link>/authors/thiem-alrik/</link>
+      <atom:link href="/authors/thiem-alrik/index.xml" rel="self" type="application/rss+xml" />
+    <description>Thiem, Alrik</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>© 2019</copyright><lastBuildDate>Tue, 01 Jan 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/img/icon-192.png</url>
+      <title>Thiem, Alrik</title>
+      <link>/authors/thiem-alrik/</link>
+    </image>
+    
+    <item>
+      <title>Qualitative Comparative Analysis with R. A user&#39;s guide</title>
+      <link>/publication/2013-qca-with-r/</link>
+      <pubDate>Tue, 01 Jan 2013 00:00:00 +0000</pubDate>
+      <guid>/publication/2013-qca-with-r/</guid>
+      <description>&lt;p&gt;This book is now obsolete, being replaced by &lt;a href=&#34;/publication/2019-qca-with-r/&#34; target=&#34;_blank&#34;&gt;this new one&lt;/a&gt; (also published at Springer).&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
