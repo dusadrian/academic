@@ -17,7 +17,7 @@ baseurl = "https://adriandusa.eu/"
 copyright = "&copy; 2019"
 
 # Enable analytics by entering your Google Analytics tracking ID
-googleAnalytics = ""
+googleAnalytics = "UA-42373034-2"
 
 ############################
 ## Advanced options below ##
