@@ -40,6 +40,8 @@ Further into the manuscript, Baumgartner also refers to my CCubes minimization a
 
 But that is not true, of course. CCubes generates exactly the same solutions as standard QCA. It has been thoroughly tested and validated against Ragin's fs/QCA software, as well as against Tosmana.
 
-Once again, Baumgartner introduces a confusion (or he actually confuses) between what an algoritm is and what it can do. While CCubes ***can*** do everything CNA does, this should not mean CCubes is the same thing with CNA. And neither should it mean CCubes is something different than standard QCA. Rather, it is a matter of options: with proper (and default!) settings, CCubes matches standard QCA.
+Once again, Baumgartner introduces a confusion (or he actually confuses) between what an algoritm is and what it can do. While CCubes ***can*** do everything CNA does, this should not mean CCubes is the same thing with CNA. In fact, as shown in section 10.2 on Coincidence Analysis from my [newest book](https://www.springer.com/gp/book/9783319756677), CCubes is superior to CNA even for CNA-related purposes.
 
-One can understand Baumgartner's preference for Thiem, as they co-authored a number of papers, but that should not be an excuse for presenting things differently from what they really are.
+And neither should it mean CCubes is something different than standard QCA. Rather, it is a matter of options: with proper (and default!) settings, CCubes matches standard QCA, to the letter.
+
+One can understand Baumgartner's preference for Thiem, as they co-authored a fair number of papers, but that should not be an excuse for presenting things differently from what they really are.
