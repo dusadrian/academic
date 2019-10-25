@@ -17,7 +17,7 @@ image:
 projects: []
 ---
 
-I've recently came across a recent manuscript called called "[Optimizing Consistency and Coverage in Configurational Causal Modeling](https://www.researchgate.net/publication/336772752_Implementation_pathways_of_large-scale_urban_development_projects_lsUDPs_in_Western_Europe_a_qualitative_comparative_analysis_QCA/references)", by Michael Baumgartner and Mathias Ambühl.
+I've recently came across a recent manuscript called called "[Optimizing Consistency and Coverage in Configurational Causal Modeling](https://people.uib.no/mba110/docs/ConCovOpt.pdf)", by Michael Baumgartner and Mathias Ambühl.
 
 As usual, Baumgartner proposes an interesting method to find the optimal thresholds for consistency and coverage, to recover the underlying causal structure (the article is jointly authored, but as far as I know Mathias Ambühl does the programming, while theoretical ideas belong to Baumgartner.)
 
