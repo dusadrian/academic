@@ -100,7 +100,7 @@ address = {street = "Soseaua Panduri 90-92, room 008", city = "Bucharest", regio
 coordinates = {latitude = "44.43169601", longitude = "26.06142104"}
 
 # Directions for visitors to locate you.
-directions = "Going uphill with the Military Academy on your left, go right on Nicolae Paulescu street, pass a barrier at the end and walk straight until you hit the building of the Faculty of Sociology and Social Work."
+directions = "Going uphill and keeping the Military Academy on your left, go right on Nicolae Paulescu street, walk pass a barrier at the corner with Ana Davila and walk straight until you hit the building of the Faculty of Sociology and Social Work."
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
