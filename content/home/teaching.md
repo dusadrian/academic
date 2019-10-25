@@ -21,4 +21,4 @@ At the Department of Sociology, I teach the following classes:
 - [Inferential Statistics](http://193.231.1.6/course/view.php?id=5)
 - Measurement in the social sciences
 
-My prefered e-learning platform is Moodle, where students complete quizzes and build their final grade throughout the entire semester.
+My preferred e-learning platform is Moodle, where students complete quizzes and build their final grade throughout the entire semester.
