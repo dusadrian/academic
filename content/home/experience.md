@@ -17,16 +17,6 @@ date_format = "January 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
-[[experience]]
-  title = "Director"
-  company = "RODA - Romanian Social Data Archive"
-  company_url = "http://www.roda.ro"
-  location = "Romania"
-  date_start = "2001-01-01"
-  date_end = ""
-  description = """
-  
-  """
 
 [[experience]]
   title = "Professor"
@@ -36,10 +26,21 @@ date_format = "January 2006"
   date_start = "2002-02-01"
   date_end = ""
   description = """Teaching research methodology and statistics."""
+  
+[[experience]]
+  title = "Director"
+  company = "Romanian Social Data Archive (RODA)"
+  company_url = "http://www.roda.ro"
+  location = "Romania"
+  date_start = "2001-01-01"
+  date_end = ""
+  description = """
+  
+  """
 
 [[experience]]
   title = "Researcher"
-  company = "Institute for Quality of Life Research"
+  company = "Institute for Quality of Life Research (ICCV)"
   company_url = "http://www.iccv.ro"
   location = "Romania"
   date_start = "1998-09-01"
