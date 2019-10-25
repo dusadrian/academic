@@ -42,6 +42,6 @@ But that is not true, of course. CCubes generates exactly the same solutions as 
 
 Once again, Baumgartner introduces a confusion (or he actually confuses) between what an algoritm is and what it can do. While CCubes ***can*** do everything CNA does, this should not mean CCubes is the same thing with CNA. In fact, as shown in section 10.2 on Coincidence Analysis from my [newest book](https://www.springer.com/gp/book/9783319756677), CCubes is superior to CNA even for CNA-related purposes.
 
-And neither should it mean CCubes is something different than standard QCA. Rather, it is a matter of options: with proper (and default!) settings, CCubes matches standard QCA, to the letter.
+And neither should it mean CCubes is something different than standard QCA. Rather, and I repeat, it is a matter of options: with proper (and default!) settings, CCubes literally matches standard QCA.
 
 One can understand Baumgartner's preference for Thiem, as they co-authored a fair number of papers, but that should not be an excuse for presenting things differently from what they really are.
