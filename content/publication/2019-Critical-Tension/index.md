@@ -37,6 +37,10 @@ tags: ["R", "QCA"]
 # url_source: ""
 # url_video: ""
 
+links:
+- name: "url"
+  url: "https://journals.sagepub.com/doi/10.1177/0049124119882456"
+
 image:
   caption: ""
   focal_point: ""
