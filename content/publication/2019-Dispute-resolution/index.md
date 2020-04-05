@@ -26,7 +26,7 @@ summary: ""
 
 math: false
 
-tags: [QCA"]
+tags: [QCA]
 
 # url_code: ""
 # url_dataset: ""
