@@ -27,11 +27,11 @@ The purpose of this post is to offer some explanation, since the authors referre
 
 To start, it is not the first article where Baumgartner refers to my package QCA as having: "... a number of shortcomings, especially when it comes to finding the complete space of viable models."
 
-It is highly ambiguous what these shortcomings really are, since my QCA package can find any solution his package CNA finds, while it can additionally identify intermediate solutions which package CNA is unable to find (of course it was not built for that, but in my opinion that is a real shortcoming.)
+It is highly ambiguous what these shortcomings really are, since the package QCA can find any solution his package CNA finds, while it can additionally identify intermediate solutions which package CNA is unable to find (of course it was not built for that, but in my opinion that is a real shortcoming.)
 
-Instead, it points to package QCApro as if that package was somehow superior. Baumgartner does not mention that package QCApro is a fork my package QCA, and actually a fork of a very old version that is vastly outperformed by the newer algorithms.
+Instead, he points to package QCApro as if that package was somehow superior but fails to mention that package QCApro is a fork my package QCA, and actually a fork of a very old version that is vastly outperformed by the newer algorithms.
 
-To his credit, Baumgartner does recognize the package QCA is the "only" QCA package in R that allows setting consistency and coverage thresholds, thus by logical implication he recognizes that package QCApro has limited functionality.
+To his credit, Baumgartner does recognize the package QCA is the "only" QCA package in R that allows setting consistency and coverage thresholds, thus by logical implication he admits that package QCApro has limited functionality.
 
 What Baumgartner refers to as "shortcomings", it is in fact a matter of defaults. A fresh reader of his description might be tempted to believe package QCA cannot find "the complete space of viable models", which would be a false conclusion. In fact, package QCA *can* find the complete space, by properly setting the argument `"all.sol"` to `TRUE`, in function `minimize()`. It is a matter of default values, not about limited functionality.
 

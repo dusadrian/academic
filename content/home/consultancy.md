@@ -11,7 +11,7 @@ title = "Consultancy activity"
 subtitle = ""
 
 # Order that this section will appear in.
-weight = 70
+weight = 90
 
 +++
 
