@@ -17,10 +17,11 @@ weight = 30
 
 My programming environment of choice is [R](https://www.r-project.org), because it is a high level software and it automatically does memory management when creating objects. It is the sort of language where users can focus on substantive issues, rather than pure programming.
 
-The most important R package I've created is called [QCA](https://cran.r-project.org/web/packages/QCA/index.html), which does Qualitative Comparative Analysis for all types of input data: binary crisp, multi-value crisp and fuzzy sets. This package is now used in many universities and summer schools all over the world. The official release can be found on CRAN, but the binary packages for the latest development version can be downloaded from here:
+The most important R package I've created is called [QCA](https://cran.r-project.org/web/packages/QCA/index.html), which does Qualitative Comparative Analysis for all types of input data: binary crisp, multi-value crisp and fuzzy sets. This package is now used in many universities and summer schools all over the world. The official release can be found on CRAN, but the binary packages and the sources for the latest development version can be found here:
 
 - for Windows [QCA_3.7-4.zip](files/QCA_3.7-4.zip)
 - for Mac OS [QCA_3.7-4.tgz](files/QCA_3.7-4.tgz)
+- Linux sources [QCA_3.7-4.tar.gz](files/QCA_3.7-4.tar.gz)
 
 I am currently working with Ciprian Păduraru on producing a parallel version of the minimization algorithm, which has the potential of increasing the execution speed function of the number of cores from the machine where the package is installed.
 
