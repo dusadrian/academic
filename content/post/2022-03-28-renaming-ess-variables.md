@@ -8,7 +8,7 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2022-03-28T13:29:02+03:00'
+lastmod: '2022-03-28T14:08:02+03:00'
 featured: no
 image:
   caption: ''
@@ -122,7 +122,7 @@ newvar <- c(
 )
 
 library(DDIwR)
-ess8 <- convert("ESS8BE.sav")
+ess8 <- convert("path/to/ESS8file.sav")
 
 # newvar <- paste(newvar, oldvar, sep = "_")
 names(ess8)[match(oldvar, tolower(names(ess8)))] <- newvar
