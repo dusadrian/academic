@@ -25,9 +25,9 @@ While using a mnemonic system is the only solution with integrated data files, i
 
 It is in fact a [Frequently Asked Question](https://www.europeansocialsurvey.org/about/faq.html), found in the Data section at question: "How do I use question numbers as variable names?". The ESS provided solution is to use software specific script files, and rename variables from the mnemonic system to the actual question names from the ESS questionnaire.
 
-The current scripts cover the needs of most ESS users, with scripts written for SAS, SPSS and Stata. However (and this is a general matter which will soon be addressed by ESS) there is no such script for the R programming environment which is also in high demand.
+The current scripts cover the needs of most ESS users, with different versions written for SAS, SPSS and Stata. However (and this is a general matter which will soon be addressed by ESS) there is no such script for the R programming environment, which is also in high demand.
 
-Until there will be an R version of the ESS datasets, one possible solution is to download any of the currently provided versions (for instance SPSS) and convert it into an R data frame using the package [DDIwR](https://cran.r-project.org/web/packages/DDIwR/index.html). The big advantage of this package, besides converting to and from various statistical software, is to create a special type of R object where each variable is a vector of class "declared", through another recent package called [declared](https://cran.r-project.org/web/packages/DDIwR/index.html) which allows R users to define specific missing values in a similar fashion as most users do in SPSS, Stata or SAS (this was not directly possible until now, given that base R has one and only one type of missing value, NA).
+Until there will be an R version of the ESS datasets, one possible solution is to download any of the currently provided versions (for instance SPSS) and convert it into an R data frame using the package [DDIwR](https://cran.r-project.org/web/packages/DDIwR/index.html). The big advantage of this package, besides converting to and from various statistical software, is to create a special type of R object where each variable is a vector of class "declared", via another recent package called [declared](https://cran.r-project.org/web/packages/DDIwR/index.html), which allows R users to define specific missing values in a similar fashion as most users do in SPSS, Stata or SAS (this was not directly possible until now, given that base R has one and only one type of missing value, NA).
 
 Below is an actual example of how to convert, also containing the code to rename the ESS round 8 variables:
 
@@ -41,7 +41,7 @@ Below is an actual example of how to convert, also containing the code to rename
 # -----
 # Modify the path to the ESS8 file in line 89.
 # Uncomment line 91 if you want <both> mnemonic and question numbers,
-# for example NWSPOL to A1_NWSPOL
+# for example rename NWSPOL to A1_NWSPOL
 # Renaming can be reversed by running line 95.
 # -----
 
