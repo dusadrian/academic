@@ -129,4 +129,5 @@ names(ess8)[match(oldvar, tolower(names(ess8)))] <- newvar
 names(ess8)[match(newvar, tolower(names(ess8)))] <- oldvar
 ```
 
-The actual file can be downloaded <a id="raw-url" href="https://github.com/dusadrian/academic/tree/master/public/files/ESS8rename.R">from here</a>.
+
+
