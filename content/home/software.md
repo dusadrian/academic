@@ -19,12 +19,16 @@ My programming environment of choice is [R](https://www.r-project.org), because 
 
 The most important R package I've created is called [QCA](https://cran.r-project.org/web/packages/QCA/index.html), which does Qualitative Comparative Analysis for all types of input data: binary crisp, multi-value crisp and fuzzy sets. This package is now used in many universities and summer schools all over the world.
 
-I am currently working with Ciprian Păduraru on producing a parallel version of the minimization algorithm, which has the potential of increasing the execution speed function of the number of cores from the machine where the package is installed.
+I am currently working on a parallel version of the minimization algorithm, having a lot pf potential to increase the execution speed, function of the number of cores from the machine where the package is installed.
 
 Linked to QCA is an independent package called [venn](https://cran.r-project.org/web/packages/venn/index.html), that creates Venn diagrams for up to 7 sets. It is specifically written for graphing entire sets or any other custom intersection, specified as a SOP (sum of products) expression.
 
 Interpreting SOP expressions, as well as a good number of useful miscellanea functions, are tasks perfored by the [admisc](https://cran.r-project.org/web/packages/admisc/index.html) package.
 
-Another incipient package that has a lot of potential is called [DDIwR](https://cran.r-project.org/web/packages/DDIwR/index.html), with a number of useful functions based on the Data Documentation Initiative standard.
+Another package with a lot of potential is called [DDIwR](https://cran.r-project.org/web/packages/DDIwR/index.html), having a number of useful functions based on the Data Documentation Initiative standard. It can also convert to and from various statistical formats, and it recently gained a graphical user interface, packed into a software called [StatConverter](https://roda.github.io/StatConverter/).
 
-Together with Emilian Hossu, I currently develop an new type of Graphical User Interface generator for R, creating [custom dialogs](https://github.com/roda/R-GUI-DialogCreator) that are imported in a [main application](https://github.com/roda/R-GUI-MainApp), employing ElectronJS from the node.js environment. It uses webkit as a standard environment, so the created dialogs look exactly the same on the users' machines. As an added bonus, this is achieved irrespective of their operating systems, because the dialog objects are created from scratch using the magic of Scalable Vector Graphics provided by the RaphaëlJS library.
+Together with Emilian Hossu, I currently develop a new type of GUI generator for R, creating [custom dialogs](https://github.com/roda/R-GUI-DialogCreator) that are imported in a [main application](https://github.com/roda/R-GUI-MainApp), employing ElectronJS from the Node.js environment. It uses webkit as a standard environment, so the created dialogs look exactly the same on the users' machines.
+
+One of the most promising recent R packages is called [declared](https://cran.r-project.org/web/packages/declared/index.html), which (finally) enables R users to declare multiple missing values. Since it is a new addition in the R ecosystem, this special type of object has an entire suite of associated functions, for instance to calculate weighted summaries even for the missing values.
+
+
