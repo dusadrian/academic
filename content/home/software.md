@@ -31,4 +31,6 @@ Together with Emilian Hossu, I currently develop a new type of GUI generator for
 
 One of the most promising recent R packages is called [declared](https://cran.r-project.org/web/packages/declared/index.html), which (finally) enables R users to declare multiple missing values. Since it is a new addition in the R ecosystem, this special type of object has an entire suite of associated functions, for instance to calculate weighted summaries even for the missing values.
 
+All my R packages are listed in the [R Universe](https://dusadrian.r-universe.dev/ui#packages).
+
 
