@@ -19,8 +19,8 @@ My programming environment of choice is [R](https://www.r-project.org), because 
 
 The most important R package I've created is called [QCA](https://cran.r-project.org/web/packages/QCA/index.html), which does Qualitative Comparative Analysis for all types of input data: binary crisp, multi-value crisp and fuzzy sets. This package is now used in many universities and summer schools all over the world. The official release can be found on CRAN, but the binary packages for the latest development version can be downloaded from here:
 
-- for Windows [QCA_3.19.1.zip](files/QCA_3.19.1.zip)
-- source file [QCA_3.19.1.tar.gz](files/QCA_3.19.1.tar.gz)
+- for Windows [QCA_3.19.1.zip](https://dl.dropboxusercontent.com/s/c79a84qvd57ktv6/QCA_3.19.1.zip?dl=0)
+- source file [QCA_3.19.1.tar.gz](https://dl.dropboxusercontent.com/s/0uqjre62cl89cl4/QCA_3.19.1.tar.gz?dl=0)
 
 I am currently working on a parallel version of the minimization algorithm, having a lot pf potential to increase the execution speed, function of the number of cores from the machine where the package is installed.
 
