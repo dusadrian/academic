@@ -7,7 +7,7 @@
 # -----
 # Modify the path to the ESS8 file in line 89.
 # Uncomment line 91 if you want <both> mnemonic and question numbers,
-# for example rename NWSPOL to A1_NWSPOL
+# for example NWSPOL to A1_NWSPOL
 # Renaming can be reversed by running line 95.
 # -----
 
@@ -86,7 +86,7 @@ newvar <- c(
 )
 
 library(DDIwR)
-ess8 <- convert("path/to/ESS8file.sav")
+ess8 <- convert("ESS8BE.sav")
 
 # newvar <- paste(newvar, oldvar, sep = "_")
 names(ess8)[match(oldvar, tolower(names(ess8)))] <- newvar

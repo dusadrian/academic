@@ -17,7 +17,10 @@ weight = 30
 
 My programming environment of choice is [R](https://www.r-project.org), because it is a high level software and it automatically does memory management when creating objects. It is the sort of language where users can focus on substantive issues, rather than pure programming.
 
-The most important R package I've created is called [QCA](https://cran.r-project.org/web/packages/QCA/index.html), which does Qualitative Comparative Analysis for all types of input data: binary crisp, multi-value crisp and fuzzy sets. This package is now used in many universities and summer schools all over the world.
+The most important R package I've created is called [QCA](https://cran.r-project.org/web/packages/QCA/index.html), which does Qualitative Comparative Analysis for all types of input data: binary crisp, multi-value crisp and fuzzy sets. This package is now used in many universities and summer schools all over the world. The official release can be found on CRAN, but the binary packages for the latest development version can be downloaded from here:
+
+- for Windows [QCA_3.19.1.zip](files/QCA_3.19.1.zip)
+- source file [QCA_3.19.1.tar.gz](files/QCA_3.19.1.tar.gz)
 
 I am currently working on a parallel version of the minimization algorithm, having a lot pf potential to increase the execution speed, function of the number of cores from the machine where the package is installed.
 
@@ -32,5 +35,3 @@ Together with Emilian Hossu, I currently develop a new type of GUI generator for
 One of the most promising recent R packages is called [declared](https://cran.r-project.org/web/packages/declared/index.html), which (finally) enables R users to declare multiple missing values. Since it is a new addition in the R ecosystem, this special type of object has an entire suite of associated functions, for instance to calculate weighted summaries even for the missing values.
 
 All my R packages are listed in the [R Universe](https://dusadrian.r-universe.dev/ui#packages).
-
-
