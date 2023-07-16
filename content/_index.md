@@ -21,7 +21,7 @@ sections:
     date_format: Jan 2006
     items:
     - company: University of Bucharest, Department of Sociology
-      company_logo: org-x
+      company_logo: ub
       company_url: ""
       date_end: ""
       date_start: "2002-02-01"
@@ -29,7 +29,7 @@ sections:
       location: Bucharest, Romania
       title: Professor
     - company: Romanian Social Data Archive (RODA)
-      company_logo: org-x
+      company_logo: roda
       company_url: "https://www.roda.ro"
       date_end: ""
       date_start: "2001-01-01"
@@ -37,7 +37,7 @@ sections:
       location: Bucharest, Romania
       title: Director
     - company: Institute for Quality of Life Research (ICCV)
-      company_logo: org-x
+      company_logo: iccv
       company_url: "https://www.iccv.ro"
       date_end: "2002-01-31"
       date_start: "1998-09-01"
