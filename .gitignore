@@ -5,3 +5,7 @@
 .DS_Store
 academic.Rproj
 *.lock
+*.Rproj
+*^.Rproj
+*.Rproj$
+*^.Rproj$
