@@ -1,7 +1,12 @@
 ---
 featured: false
 
-authors: ["Alina Hossu", "Ioan Cristian Iojă", "Maria Pătroescu", "Adrian Dușa", "Anna M. Hersperger"]
+authors:
+- Alina Hossu
+- Ioan Cristian Iojă
+- Maria Pătroescu
+- Adrian Dușa
+- Anna M. Hersperger
 
 title: "Dispute Resolution and Collaborative Decision-Making: What Accounts for Their Effectiveness? The Case of Romania"
 
@@ -10,7 +15,7 @@ publishDate: "2019-11-01"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
 publication_types:
-- "2"
+- 2
 
 publication: '*Sustainability*'
 
@@ -30,7 +35,7 @@ tags: [QCA]
 
 # url_code: ""
 # url_dataset: ""
-url_pdf: "2019-DisputeResolution.pdf"
+url_pdf: "uploads/publications/2019-DisputeResolution.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
@@ -38,7 +43,7 @@ url_pdf: "2019-DisputeResolution.pdf"
 # url_video: ""
 
 links:
-- name: "URL"
+- name: "Journal page"
   url: "https://www.mdpi.com/2071-1050/11/24/7072"
 
 image:
@@ -46,4 +51,3 @@ image:
   focal_point: ""
   preview_only: false
 ---
-

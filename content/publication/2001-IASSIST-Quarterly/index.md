@@ -1,7 +1,8 @@
 ﻿---
 featured: false
 
-authors: ["Adrian Dușa"]
+authors: 
+- Adrian Dușa
 
 title: "A Data Archive for Social Sciences in Romania"
 
@@ -30,7 +31,7 @@ tags: ["RODA"]
 
 # url_code: ""
 # url_dataset: ""
-url_pdf: "files/2001-IASSISTQ.pdf"
+url_pdf: "uploads/publications/2001-IASSISTQ.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
@@ -46,5 +47,3 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
-

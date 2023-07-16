@@ -1,6 +1,4 @@
 ---
-authors:
-- admin
 bio: My research interests include social statistics, research methodology and QCA
 education:
   courses:
@@ -14,11 +12,13 @@ education:
     institution: University of Bucharest
     year: 1997
 email: "dusa.adrian@unibuc.ro"
+first_name: Adrian
+highlight_name: true
 interests:
 - Social Statistics
 - Research Methodology
 - Qualitative Comparative Analysis
-name: Adrian Dușa
+last_name: Dușa
 organizations:
 - name: University of Bucharest
   url: "https://sas.unibuc.ro/en"
@@ -38,10 +38,13 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/dusadrian
+- icon: cv
+  icon_pack: ai
+  link: uploads/publications/2023-07-15-CV.pdf
+status:
+  icon: ☕️
 superuser: true
-user_groups:
-- Researchers
-- Visitors
+title: Adrian Dușa
 ---
 
 I work at the [Department of Sociology](http://www.sas.unibuc.ro) of the [University of Bucharest](http://www.unibuc.ro), teaching social statistics, research methodology and measurement in the social sciences.

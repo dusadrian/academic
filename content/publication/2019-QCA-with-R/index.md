@@ -1,7 +1,8 @@
-﻿---
+---
 featured: true
 
-authors: ["Adrian Dușa"]
+authors:
+- Adrian Dușa
 
 title: "QCA with R. A Comprehensive Resource"
 
@@ -9,7 +10,8 @@ date: "2019-01-01"
 publishDate: "2019-09-23"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
-publication_types: ["5"]
+publication_types:
+- 5
 
 # publication: ""
 
@@ -29,7 +31,7 @@ tags: ["R", "QCA"]
 
 # url_code: ""
 # url_dataset: ""
-# url_pdf: ""
+url_pdf: "uploads/publications/2019-Springer.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""

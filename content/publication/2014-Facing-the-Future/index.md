@@ -1,7 +1,11 @@
 ---
 featured: true
 
-authors: ["Adrian Dușa", "Dietrich Nelle", "Günter Stock", "Gert G. Wagner"]
+authors: 
+- Adrian Dușa
+- Dietrich Nelle
+- Günter Stock
+- Gert G. Wagner
 
 title: "Facing the Future. European Research Infrastructures for the Humanities and Social Sciences"
 
@@ -10,7 +14,7 @@ publishDate: "2014-07-01"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
 publication_types:
-- "5"
+- 5
 
 # publication: ""
 
@@ -30,7 +34,7 @@ tags: ["ESFRI"]
 
 # url_code: ""
 # url_dataset: ""
-url_pdf: "files/2014-FFERIHSS.pdf"
+url_pdf: "uploads/publications/2014-FFERIHSS.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""

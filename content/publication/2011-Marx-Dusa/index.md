@@ -1,7 +1,9 @@
 ﻿---
 featured: false
 
-authors: ["Axel Marx", "Adrian Dușa"]
+authors: 
+- Axel Marx
+- Adrian Dușa
 
 title: "Crisp-Set Qualitative Comparative Analysis (csQCA), Contradictions and Consistency Benchmarks for Model Specification"
 
@@ -10,7 +12,7 @@ publishDate: "2011-08-01"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
 publication_types:
-- "2"
+- 2
 
 publication: '*Methodological Innovations*'
 
@@ -30,17 +32,19 @@ tags: ["R", "QCA"]
 
 # url_code: ""
 # url_dataset: ""
-url_pdf: "http://journals.sagepub.com/doi/pdf/10.4256/mio.2010.0037"
+url_pdf: "uploads/publications/2011-MIO.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
 # url_source: ""
 # url_video: ""
 
+links:
+- name: "Journal page"
+  url: "https://journals.sagepub.com/doi/abs/10.4256/mio.2010.0037"
+
 image:
   caption: ""
   focal_point: ""
   preview_only: false
 ---
-
-

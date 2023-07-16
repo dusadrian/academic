@@ -1,7 +1,8 @@
 ﻿---
 featured: false
 
-authors: ["Adrian Dușa"]
+authors:
+- Adrian Dușa
 
 title: "Creating data services in new democracies. Experiences from a case study and related neighbours"
 
@@ -10,7 +11,7 @@ publishDate: "2003-09-01"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
 publication_types:
-- "2"
+- 2
 
 publication: 'In *International Social Science Journal*'
 
@@ -30,7 +31,7 @@ tags:
 
 # url_code: ""
 # url_dataset: ""
-url_pdf: "files/2003-ISSJ.pdf"
+url_pdf: "uploads/publications/2003-ISSJ.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
@@ -42,5 +43,3 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
-

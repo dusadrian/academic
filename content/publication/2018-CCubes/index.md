@@ -1,7 +1,8 @@
 ﻿---
 featured: true
 
-authors: ["Adrian Dușa"]
+authors:
+- Adrian Dușa
 
 title: "Consistency Cubes. A Fast, Efficient Method for exact Boolean Minimization"
 
@@ -10,7 +11,7 @@ publishDate: "2018-02-01"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
 publication_types:
-- "2"
+- 2
 
 publication: '*R Journal*'
 
@@ -30,12 +31,16 @@ tags: ["R", "QCA"]
 
 # url_code: ""
 # url_dataset: ""
-url_pdf: "https://journal.r-project.org/archive/2018/RJ-2018-062/RJ-2018-062.pdf"
+url_pdf: "uploads/publications/2018-RJ.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
 # url_source: ""
 # url_video: ""
+
+links:
+- name: "Journal page"
+  url: "https://journal.r-project.org/archive/2018/RJ-2018-080/index.html"
 
 image:
   caption: ""

@@ -1,7 +1,13 @@
 ﻿---
 featured: true
 
-authors: ["Adrian Dușa", "Bogdan Oancea", "Nicoleta Caragea", "Ciprian Alexandru", "Nicolae Marius Jula", "Ana Maria Dobre"]
+authors:
+- Adrian Dușa
+- Bogdan Oancea
+- Nicoleta Caragea
+- Ciprian Alexandru
+- Nicolae Marius Jula
+- Ana Maria Dobre
 
 title: "R cu aplicații în statistică"
 
@@ -9,7 +15,8 @@ date: "2015-03-01"
 publishDate: "2015-03-01"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
-publication_types: ["5"]
+publication_types:
+- 5
 
 publication: "Editura Universității din București"
 
@@ -29,7 +36,7 @@ tags: ["R"]
 
 # url_code: ""
 # url_dataset: ""
-url_pdf: "files/2015-RAS.pdf"
+url_pdf: "uploads/publications/2015-RAS.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""

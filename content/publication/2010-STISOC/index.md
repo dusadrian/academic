@@ -1,7 +1,10 @@
 ﻿---
 featured: false
 
-authors: ["Lazăr Vlăsceanu", "Adrian Dușa", "Cosima Rughiniș"]
+authors:
+- Lazăr Vlăsceanu
+- Adrian Dușa
+- Cosima Rughiniș
 
 title: "Publicul și știința. Interese și percepții ale publicului privind cercetarea științifică și rezultatele cercetării"
 
@@ -9,7 +12,8 @@ date: "2010-11-01"
 publishDate: "2010-11-01"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
-publication_types: ["4"]
+publication_types:
+- 4
 
 publication: ""
 
@@ -29,7 +33,7 @@ tags:
 
 # url_code: ""
 # url_dataset: ""
-url_pdf: "files/2010-STISOC.pdf"
+url_pdf: "uploads/publications/2010-STISOC.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
@@ -41,5 +45,3 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
-

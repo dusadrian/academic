@@ -1,7 +1,8 @@
 ﻿---
 featured: false
 
-authors: ["Adrian Dușa"]
+authors:
+- Adrian Dușa
 
 title: "Comparative Analysis using Boolean Algebra"
 
@@ -10,7 +11,7 @@ publishDate: "2020-06-20"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
 publication_types:
-- "6"
+- 6
 
 publication: 'In *SAGE Research Methods Foundations*'
 
@@ -30,7 +31,7 @@ tags: ["QCA"]
 
 # url_code: ""
 # url_dataset: ""
-url_pdf: "files/2020-ComparativeAnalysisUsingBooleanAlgebra.pdf"
+url_pdf: "uploads/publications/2020-ComparativeAnalysisUsingBooleanAlgebra.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
@@ -42,4 +43,3 @@ image:
   focal_point: ""
   preview_only: false
 ---
-

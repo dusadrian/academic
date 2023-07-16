@@ -1,7 +1,9 @@
 ﻿---
 featured: false
 
-authors: ["Thiem, Alrik", "Adrian Dușa"]
+authors:
+- Alrik Thiem
+- Adrian Dușa
 
 title: "Qualitative Comparative Analysis with R. A user's guide"
 
@@ -9,7 +11,8 @@ date: "2013-01-01"
 publishDate: "2013-01-01"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
-publication_types: ["5"]
+publication_types:
+- 5
 
 # publication: ""
 

@@ -1,7 +1,8 @@
 ﻿---
 featured: false
 
-authors: ["Adrian Dușa"]
+authors:
+- Adrian Dușa
 
 title: "A mathematical approach to the Boolean minimization problem"
 
@@ -10,7 +11,7 @@ publishDate: "2010-01-01"
 
 # 0 = Uncategorized, 1 = Conference proceedings, 2 = Journal, 3 = Work in progress, 4 = Technical report, 5 = Book, 6 = Book chapter
 publication_types:
-- "2"
+- 2
 
 publication: "*Quality & Quantity*"
 
@@ -30,7 +31,7 @@ tags: ["R", "QCA"]
 
 # url_code: ""
 # url_dataset: ""
-url_pdf: "files/2010-MABMP.pdf"
+url_pdf: "uploads/publications/2010-MABMP.pdf"
 # url_poster: ""
 # url_project: ""
 # url_slides: ""
@@ -42,5 +43,3 @@ image:
   focal_point: ""
   preview_only: false
 ---
-
-
