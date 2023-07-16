@@ -3,8 +3,8 @@
 .RData
 .Ruserdata
 .DS_Store
-academic.Rproj
 *.lock
+academic.Rproj
 *.Rproj
 *^.Rproj
 *.Rproj$
