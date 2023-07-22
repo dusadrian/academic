@@ -8,7 +8,7 @@ tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: ''
+lastmod: '2023-07-16'
 featured: no
 image:
   caption: ''
@@ -17,13 +17,13 @@ image:
 projects: [R]
 ---
 
-As a former SPSS trained user, ever since I started using R there was always a rather annoying question in the background: why is there a single missing value in base R, and why doesn't it offer the possibility to use multiple missing values?
+As a former SPSS trained user, ever since I started using R there was always a rather annoying background question: why is there a single missing value in base R, and why doesn't it offer the possibility to use multiple missing values?
 
-As far as I understand, the main reason might have something to do with the scientific domain of the original R creators, who were definitely not from the social sciences. For any other science, a single missing value is more than enough, and R simply went on the original design, in complete disregard of the definite need of multiple missing values that are universally offered by all other major statistical software like SAS, SPSS and Stata.
+As far as I understand, the main reason might have something to do with the scientific domain of the original R creators, who were definitely not from the social sciences. A single missing value is more than enough for any other science, and R simply went on the original design, ignoring the definite need of multiple missing values that are universally offered by all other major statistical software like SAS, SPSS and Stata.
 
-More recently, some very good initiatives led to the packages `haven` and `labelled`, who are almost but not perfect. In this post, I am going to write about my own solution to this problem, published on CRAN in the package [declared](https://cran.r-project.org/web/packages/declared/index.html).
+More recently, some good initiatives led to the packages `haven` and `labelled`, who are almost but not perfect. In this post, I am going to write about my own solution to this problem, published on CRAN in the package [declared](https://cran.r-project.org/web/packages/declared/index.html).
 
-This package offers a custom type of vector, that is not different from the regular R vectors in the sense the it contains exactly the same missing values, so that normal functionality is maintained for any statistical operation. What it additionally does, is to keep a record of the position of each and every missing value, and assign meaning. This way, it manages to achieve the best of both worlds: declare and use multiple missing values, while still being compatible with base R.
+This package offers a custom type of vector, that is not different from regular R vectors in the sense that it contains exactly the same missing values, so that normal functionality is maintained for any statistical operation. What it additionally does, is to keep a record of the position of each and every missing value, and assign meaning to those positions. This way, it manages to achieve the best of both worlds: declare and use multiple missing values, while still being compatible with base R.
 
 The following is an illustrative example, for a hypothetical variable for the number of children in a household:
 
@@ -52,7 +52,7 @@ The values `-91` and `-92` are properly declared and recognised as missing, as i
 Let's see how this vector looks in base R:
 
 ```r
-baseRchildren <- drop(drop_na(children))
+baseRchildren <- drop(children)
 #> [1]  2 NA  0  3 NA  4  2  1  0  3 NA  0  1  2  1  0 NA  2  5  2  1  3
 ```
 
@@ -63,7 +63,7 @@ mean(baseRchildren)
 #> [1] NA
 ```
 
-In R, the value `NA` is equivalent to an empty cell, with no information about why it is missing and this is a potential problem. Obtaining the expected result involves the argument `na.rm` (remove missing values before calculating the mean), deactivated by default to alert users about the problems in the data. 
+In R, the value `NA` is equivalent to an empty cell (with no information about why it is missing) and this is a potential problem. Obtaining the expected result involves the argument `na.rm` (remove missing values before calculating the mean), deactivated by default to alert users about data problems. 
 
 ```r
 mean(baseRchildren, na.rm = TRUE)
@@ -110,7 +110,7 @@ orientation <- declared(
 #>     3      Right
 #>   -91 Don't know
 ```
-This is an typical example of a categorical variable, with all values corresponding to certain ordered categories. The only possible way to emulate something like this in base R is to use a factor:
+This is a typical example of a categorical variable, with all values corresponding to certain ordered categories. The only possible way to emulate something like this in base R is to use a factor:
 
 ```r
 factor(
