@@ -35,10 +35,10 @@ children <- declared(
   labels = c("Prefer not to say" = -91, "Not applicable" = -92),
   na_values = c(-91, -92)
 )
-#> <declared<integer>[23]> Number of children in the household
-#>  [1]       0       2 NA(-91)       0       3 NA(-92)       4       2       1
-#> [10]       0       3 NA(-91)       0       1       2       1       0 NA(-91)
-#> [19]       2       5       2       1       3
+#> <declared<integer>[22]> Number of children in the household
+#>  [1]       2 NA(-91)       0       3 NA(-92)       4       2       1       0
+#> [10]       3 NA(-91)       0       1       2       1       0 NA(-91)       2
+#> [19]       5       2       1       3
 #> Missing values: -91, -92
 
 #> Labels:
