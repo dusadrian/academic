@@ -45,8 +45,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/USERNAME
-- icon: google-scholar
-  icon_pack: ai
+- icon: graduation-cap
+  icon_pack: fas
   link: https://scholar.google.com/citations?user=PERSON-ID
 - icon: github
   icon_pack: fab

@@ -32,8 +32,8 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dusadrian
-- icon: google-scholar
-  icon_pack: ai
+- icon: graduation-cap
+  icon_pack: fas
   link: https://scholar.google.ro/citations?user=BLyda7YAAAAJ&hl=en
 - icon: github
   icon_pack: fab
