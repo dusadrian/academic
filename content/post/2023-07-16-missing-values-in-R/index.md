@@ -134,7 +134,7 @@ Unlike R factors, in the declared counterpart the values are still there, and la
 
 This is the expected behavior, since the value `-91` corresponding to the category "Don't know" is to be treated as missing, anyways. The declared missing values are correctly coerced to base R `NA` values.
 
-There are many other utility functions in this package, probably too many to describe in a single post. Interested readers are invited to read the Vignettes from the package's CRAN webpage:<br>
+There are many other utility functions in this package, probably too many to describe in a single post. Interested readers are invited to visit the package's Vignettes from CRAN:<br>
 [https://cran.r-project.org/web/packages/declared/index.html](https://cran.r-project.org/web/packages/declared/index.html)
 
 <br>
