@@ -90,7 +90,7 @@ sum(is.empty(c(children, NA))) # adding one pure empty value
 #> [1] 1
 ```
 
-Declared vectors are useful for both numeric and categorical variables. In fact, missing values can be recorded no matter what kind of variable there is in a dataset. In addition to declaring such values, it is in fact possible to also declare value labels for the response categories, and create a special kind of object that is in between numerical vectors and R factors.
+Declared vectors are useful for both numeric and categorical variables. In fact, missing values can be recorded no matter what kind of variables there are in a dataset. In addition to declaring such values, it is in fact possible to also declare value labels for the response categories, to create a special kind of object that is inbetween numerical vectors and R factors.
 
 ```r
 orientation <- declared(
