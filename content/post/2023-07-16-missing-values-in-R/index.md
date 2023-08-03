@@ -19,13 +19,13 @@ projects: [R]
 
 As a former SPSS trained user, ever since I started using R there was always a rather annoying background question: why is there a single missing value in base R, and why isn't it possible to use more missing values?
 
-As far as I understand, the main reason might have something to do with the scientific domain of the original R creators, who were definitely not from the social sciences. A single missing value is more than enough for any other science, and R simply went on the original design, ignoring the definite need of multiple missing values that are universally offered by all other major statistical software like SAS, SPSS and Stata.
+As far as I understand, the main reason might have something to do with the scientific domain of the original R creators, who were definitely not from the social sciences. A single missing value is more than enough for any other scientific domain, and R simply went on the original design, ignoring the use of multiple missing values that are universally offered by all other major statistical software like SAS, SPSS and Stata.
 
-More recently, some initiatives led to the packages `haven` and `labelled`, who are almost but not perfect. In this post, I am going to write about my own solution to this situation, published on CRAN in the package [declared](https://cran.r-project.org/web/packages/declared/index.html).
+More recently, some good initiatives led to the packages `haven` and `labelled`, who are almost (but not) perfect. In this post, I am going to write about my own solution to this situation, published on CRAN in the package [declared](https://cran.r-project.org/web/packages/declared/index.html).
 
-This package offers a custom type of vector, that is not different from regular R vectors in the sense that it contains exactly the same missing values, so normal functionality is maintained for any statistical operation. What it additionally does, is to keep a record of the position of each and every missing value, and assign meaning to those positions. This way, it achieves the best of both worlds: declare and use multiple missing values, while still being compatible with base R.
+This package offers a custom type of vector, that is not different from regular R vectors in the sense that it contains exactly the same missing values, so normal functionality is maintained for any statistical operation. What it additionally does, is to keep a record of the position of each and every missing value, and assign meaning to those positions. This way, it achieves the best of both worlds: declare and use multiple missing values, whilst being fully compatible with base R design.
 
-The following is an illustrative example, for a hypothetical variable for the number of children in a household:
+The following is an illustrative example, for a hypothetical variable about the number of children in a household:
 
 ```r
 library(declared)
@@ -56,14 +56,14 @@ baseRchildren <- drop(children)
 #> [1]  2 NA  0  3 NA  4  2  1  0  3 NA  0  1  2  1  0 NA  2  5  2  1  3
 ```
 
-Any statistical operation, even basic descriptives, on such vectors would result into an `NA`:
+Any statistical operation, even basic descriptives, on such vectors results into an `NA`:
 
 ```r
 mean(baseRchildren)
 #> [1] NA
 ```
 
-In R, the value `NA` is equivalent to an empty cell (with no information about why it is missing) and this is a potential problem. Obtaining the expected result involves the argument `na.rm` (remove missing values before calculating the mean), deactivated by default to alert users about data problems. 
+In R, the value `NA` is equivalent to an empty cell (with no information about why it is missing) and this requires attention. To obtain the expected result, one has to employ the argument `na.rm` (remove missing values before calculating the mean), deactivated by default to alert users about potential problems in the data.
 
 ```r
 mean(baseRchildren, na.rm = TRUE)
@@ -80,13 +80,14 @@ mean(children)
 In this example, the argument `na.rm` is not necessary because the (declared) `NA` values are not empty cells, despite being stored as regular `NA` values. For this reason, a dedicated function is provided to differentiate between pure `NA` and the four declared missing values:
 
 ```r
-sum(is.na(children))
+children |> is.na() |> sum()
 #> [1] 4
 
-sum(is.empty(children))
+children |> is.empty() |> sum()
 #> [1] 0
 
-sum(is.empty(c(children, NA))) # adding one pure empty value
+# adding one pure empty value
+c(children, NA) |> is.empty() |> sum()
 #> [1] 1
 ```
 
@@ -127,9 +128,9 @@ R factors are unable to differentiate between valid categories and those which s
 Unlike R factors, in the declared counterpart the values are still there, and labels are assigned for each category. To meet the expectations of various statistical procedures that allow for categorical variables, the function `as.factor()` coerces the vector:
 
 ```r
-> as.factor(x)
+> orientation |> as.factor(ordered = TRUE)
 #> [1] Left   Middle Right  <NA>  
-#> Levels: Left Middle Right
+#> Levels: Left < Middle < Right
 ```
 
 This is the expected behavior, since the value `-91` corresponding to the category "Don't know" is to be treated as missing, anyways. The declared missing values are correctly coerced to base R `NA` values.
