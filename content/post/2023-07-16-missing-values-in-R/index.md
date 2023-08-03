@@ -52,32 +52,32 @@ The values `-91` and `-92` are properly declared and recognised as missing, as i
 Let's see how this vector looks in base R:
 
 ```r
-baseRchildren <- drop(children)
+baseRchildren <- children |> drop()
 #> [1]  2 NA  0  3 NA  4  2  1  0  3 NA  0  1  2  1  0 NA  2  5  2  1  3
 ```
 
 Any statistical operation, even basic descriptives, on such vectors results into an `NA`:
 
 ```r
-mean(baseRchildren)
+baseRchildren |> mean()
 #> [1] NA
 ```
 
 In R, the value `NA` is equivalent to an empty cell (with no information about why it is missing) and this requires attention. To obtain the expected result, one has to employ the argument `na.rm` (remove missing values before calculating the mean), deactivated by default to alert users about potential problems in the data.
 
 ```r
-mean(baseRchildren, na.rm = TRUE)
+baseRchildren |> mean(na.rm = TRUE)
 #> [1] 1.777778
 ```
 
 However, in this particular example the values are not "empty". There are particular and known reasons for each value where the number of children is not provided, hence these values should not be problematic. Package `declared` solves this by default:
 
 ```r
-mean(children)
+children |> mean()
 #> [1] 1.777778
 ```
 
-In this example, the argument `na.rm` is not necessary because the (declared) `NA` values are not empty cells, despite being stored as regular `NA` values. For this reason, a dedicated function is provided to differentiate between pure `NA` and the four declared missing values:
+In this example, the argument `na.rm` is not necessary because the (declared) `NA` values are not empty cells, despite being stored as regular `NA` values. For this reason, a dedicated function is provided, called `is.empty()`, to differentiate between pure `NA` and the four declared missing values:
 
 ```r
 children |> is.na() |> sum()
