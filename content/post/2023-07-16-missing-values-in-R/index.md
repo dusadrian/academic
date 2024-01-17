@@ -1,20 +1,21 @@
 ---
-title: Multiple missing values in R? Solved.
-author: Adrian Dușa
-date: '2023-07-16'
-slug: multiple-missing-values-in-R
+title: "Multiple missing values in R? Solved."
+author: "Adrian Dușa"
+date: "2023-07-16"
+output: pdf_document
 categories: []
 tags: []
 subtitle: ''
 summary: ''
 authors: []
-lastmod: '2023-07-16'
+lastmod: "2023-07-16"
 featured: no
 image:
   caption: ''
   focal_point: ''
   preview_only: no
-projects: [R]
+projects: R
+slug: "multiple-missing-values-in-R"
 ---
 
 As a former SPSS trained user, ever since I started using R there was always a rather annoying background question: why is there a single missing value in base R, and why isn't it possible to use more missing values?
@@ -135,7 +136,7 @@ Unlike R factors, in the declared counterpart the values are still there, and la
 
 This is the expected behavior, since the value `-91` corresponding to the category "Don't know" is to be treated as missing, anyways. The declared missing values are correctly coerced to base R `NA` values.
 
-There are many other utility functions in this package, probably too many to describe in a single post. Interested readers are invited to visit the package's Vignettes from CRAN:<br>
-[https://cran.r-project.org/web/packages/declared/index.html](https://cran.r-project.org/web/packages/declared/index.html)
+There are many other utility functions in this package, probably too many to describe in a single post. Interested readers are invited to visit the package's Vignettes from its dedicated r-universe webpage:<br>
+[https://dusadrian.r-universe.dev/declared](https://dusadrian.r-universe.dev/declared)
 
 <br>
