@@ -5,14 +5,14 @@ date: "2023-07-16"
 output: pdf_document
 categories: []
 tags: []
-subtitle: ''
-summary: ''
+subtitle: ""
+summary: ""
 authors: []
 lastmod: "2023-07-16"
 featured: no
 image:
-  caption: ''
-  focal_point: ''
+  caption: ""
+  focal_point: ""
   preview_only: no
 projects: R
 slug: "multiple-missing-values-in-R"
@@ -112,6 +112,7 @@ orientation <- declared(
 #>     3      Right
 #>   -91 Don't know
 ```
+
 This is a typical example of a categorical variable, with all values corresponding to certain ordered categories. The only possible way to emulate this in base R is to use a factor:
 
 ```r
@@ -130,7 +131,7 @@ Unlike R factors, in the declared counterpart the values are still there, and la
 
 ```r
 > orientation |> as.factor(ordered = TRUE)
-#> [1] Left   Middle Right  <NA>  
+#> [1] Left   Middle Right  <NA>
 #> Levels: Left < Middle < Right
 ```
 
